@@ -62,7 +62,7 @@ for index,item in enumerate(obj['response']):
     except Exception as e:
         print(e)
 
-games.to_csv('games.csv')
+games.to_csv('data/games.csv')
 
 games = pd.read_csv('games.csv')
 games_id = list(games['id'])
@@ -96,8 +96,6 @@ for index,id in enumerate(games_id):
         print(e)
 
 
-
-
-games_stats.to_csv('games_stats.csv')
+games_stats.to_csv('data/games_stats.csv')
 
 
