@@ -29,14 +29,13 @@ nba_api = NbaApi()
 res = nba_api.get('games', {"season": "2021"})
 obj = json.loads(res.text)
 json_formatted_str = json.dumps(obj, indent=4)
-print(obj.keys())
 
 columns = ['id', 'season', 'date', 'arena', 'H_team', 'A_team_id', 'A_team', 'A_team_id', 'H_score', 'A_score', 'ref1',
            'ref2', 'ref3',
            'ties', 'leadChange', 'nugget']
 games = pd.DataFrame(columns=columns)
 
-for index,item in enumerate(obj['response']):
+for index, item in enumerate(obj['response']):
     try:
         id = item['id']
         season = '2021'
@@ -55,21 +54,21 @@ for index,item in enumerate(obj['response']):
         lead_change = item['leadChanges']
         nugget = item['nugget']
 
-        row = [id,season,date,arena,h_team_name,h_team_id,a_team_name,a_team_id,h_score,a_score,ref1,ref2,ref3,ties,lead_change,nugget]
+        row = [id, season, date, arena, h_team_name, h_team_id, a_team_name, a_team_id, h_score, a_score, ref1, ref2,
+               ref3, ties, lead_change, nugget]
 
         games.loc[index] = row
 
     except Exception as e:
         print(e)
 
-games.to_csv('data/games.csv')
+games.to_csv('data/games.csv', index=False)
 
 games = pd.read_csv('games.csv')
 games_id = list(games['id'])
 games_stats = pd.DataFrame()
 
-
-for index,id in enumerate(games_id):
+for index, id in enumerate(games_id):
     try:
         nba_api = NbaApi()
         res = nba_api.get('games/statistics', {"id": id})
@@ -79,13 +78,11 @@ for index,id in enumerate(games_id):
             stats = obj['response'][0]['statistics']
             columns = stats[0].keys()
 
-
-            columns =['game_id','team_id'] + list(columns)
+            columns = ['game_id', 'team_id'] + list(columns)
             games_stats = pd.DataFrame(columns=columns)
 
-
-        data1 = [id,obj['response'][0]['team']['id']] + list(obj['response'][0]['statistics'][0].values())
-        data2 = [id,obj['response'][0]['team']['id']] + list(obj['response'][1]['statistics'][0].values())
+        data1 = [id, obj['response'][0]['team']['id']] + list(obj['response'][0]['statistics'][0].values())
+        data2 = [id, obj['response'][1]['team']['id']] + list(obj['response'][1]['statistics'][0].values())
 
         games_stats.loc[len(games_stats)] = data1
         games_stats.loc[len(games_stats)] = data2
@@ -95,7 +92,4 @@ for index,id in enumerate(games_id):
     except Exception as e:
         print(e)
 
-
-games_stats.to_csv('data/games_stats.csv')
-
-
+games_stats.to_csv('data/games_stats.csv', index=False)
