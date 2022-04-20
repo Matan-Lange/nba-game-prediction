@@ -64,7 +64,7 @@ for index, item in enumerate(obj['response']):
 
 games.to_csv('data/games.csv', index=False)
 
-games = pd.read_csv('games.csv')
+#games = pd.read_csv('data//games.csv')
 games_id = list(games['id'])
 games_stats = pd.DataFrame()
 
@@ -93,3 +93,39 @@ for index, id in enumerate(games_id):
         print(e)
 
 games_stats.to_csv('data/games_stats.csv', index=False)
+
+
+player_stats = pd.DataFrame()
+
+for index, id in enumerate(games_id):
+    try:
+        nba_api = NbaApi()
+        res = nba_api.get('players/statistics', {"game": id})
+        obj = json.loads(res.text)
+
+        if player_stats.empty:
+            stats_exp = obj['response'][0]
+            columns = stats_exp.keys()
+
+            columns = ['player_name', 'team_id','game_id'] + list(columns)[3:]
+            player_stats = pd.DataFrame(columns=columns)
+
+        players_info = obj['response']
+
+        for info in players_info:
+            player_name = info['player']['firstname'] +' ' +info['player']['lastname']
+            team_id = info['team']['id']
+            game_id = id
+            stats = info
+            stats.pop('player')
+            stats.pop('team')
+            stats.pop('game')
+            stats = [player_name,team_id,game_id] + list(stats.values())
+
+            player_stats.loc[len(player_stats)] = stats
+
+    except Exception as e:
+        print(e)
+
+player_stats.to_csv('data/player_stats.csv',index=False)
+print('done')
