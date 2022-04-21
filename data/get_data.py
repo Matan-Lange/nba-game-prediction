@@ -5,7 +5,7 @@ import json
 import pandas as pd
 import time
 
-load_dotenv(".env")
+load_dotenv("../.env")
 
 
 class NbaApi:
