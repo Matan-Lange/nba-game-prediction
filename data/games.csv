@@ -61,7 +61,6 @@ id,season,date,arena,H_team,A_team_id,A_team,A_team_id,H_score,A_score,ref1,ref2
 8939,2021,2021-11-09T03:00:00.000Z,Golden 1 Center,Sacramento Kings,30,Phoenix Suns,28,104,109,Josh Tiven,Jacyn Goble,Evan Scott,3,8,
 9094,2021,2021-11-30T01:00:00.000Z,Toyota Center,Houston Rockets,14,Oklahoma City Thunder,25,102,89,John Goble,Mitchell Ervin,Tyler Ricks,6,2,
 9095,2021,2021-11-30T01:00:00.000Z,Target Center,Minnesota Timberwolves,22,Indiana Pacers,15,100,98,Eric Lewis,J.T. Orr,Jonathan Sterling,7,11,
-9096,2021,2021-11-30T01:30:00.000Z,American Airlines Center,Dallas Mavericks,8,Cleveland Cavaliers,7,96,114,Marat Kogut,Brent Barnaky,Tyler Ford,4,3,
 9097,2021,2021-11-30T01:30:00.000Z,AT&T Center,San Antonio Spurs,31,Washington Wizards,41,116,99,Derrick Collins,Courtney Kirkland,Brett Nansel,7,14,
 9098,2021,2021-11-30T02:00:00.000Z,Vivint Arena,Utah Jazz,40,Portland Trail Blazers,29,129,107,Josh Tiven,Karl Lane,John Butler,3,3,
 9099,2021,2021-11-30T03:30:00.000Z,STAPLES Center,LA Clippers,16,New Orleans Pelicans,23,104,123,Leon Wood,Bennie Adams,Zach Zarba,1,7,
@@ -202,6 +201,68 @@ id,season,date,arena,H_team,A_team_id,A_team,A_team_id,H_score,A_score,ref1,ref2
 9318,2021,2022-01-01T00:00:00.000Z,Toyota Center,Houston Rockets,14,Miami Heat,20,110,120,John Goble,Cheryl Flores,Brandon Adair,5,6,
 9319,2021,2022-01-01T00:30:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Atlanta Hawks,1,118,121,Matt Boland,Josh Tiven,Clare Aubry,3,2,
 9320,2021,2022-01-01T00:30:00.000Z,Scotiabank Arena,Toronto Raptors,38,LA Clippers,16,116,108,Ben Taylor,Ray Acosta,Suyash Mehta,10,10,
+8042,2020,2021-03-02T01:30:00.000Z,AT&T Center,San Antonio Spurs,31,Brooklyn Nets,4,113,124,Karl Lane,Tre Maddox,Nate Green,8,7,
+8043,2020,2021-03-02T03:30:00.000Z,Moda Center,Portland Trail Blazers,29,Charlotte Hornets,5,123,111,Derek Richardson,Mark Ayotte,John Butler,9,9,
+8044,2020,2021-03-03T00:00:00.000Z,Capital One Arena,Washington Wizards,41,Memphis Grizzlies,19,111,125,Tony Brothers,Brent Barnaky,Natalie Sago,6,9,
+8045,2020,2021-03-03T00:30:00.000Z,TD Garden,Boston Celtics,2,LA Clippers,16,117,112,JB DeRosa,Scott Foster,Ben Taylor,11,16,
+8046,2020,2021-03-03T00:30:00.000Z,AmericanAirlines Arena,Miami Heat,20,Atlanta Hawks,1,80,94,Scott Wall,Josh Tiven,Jason Goldenberg,5,7,
+8054,2020,2021-03-04T00:30:00.000Z,Toyota Center,Houston Rockets,14,Brooklyn Nets,4,114,132,James Williams,Lauren Holtkamp,Gediminas Petraitis,7,2,
+8055,2020,2021-03-04T01:00:00.000Z,Target Center,Minnesota Timberwolves,22,Charlotte Hornets,5,102,135,Kane Fitzgerald,Dedric Taylor,Suyash Mehta,7,3,
+8056,2020,2021-03-04T01:00:00.000Z,Smoothie King Center,New Orleans Pelicans,23,Chicago Bulls,6,124,128,Tom Washington,Kevin Scott,CJ Washington,3,4,
+8057,2020,2021-03-04T01:30:00.000Z,American Airlines Center,Dallas Mavericks,8,Oklahoma City Thunder,25,87,78,Derrick Collins,Tre Maddox,Matt Kallio,6,6,
+8058,2020,2021-03-04T03:00:00.000Z,Moda Center,Portland Trail Blazers,29,Golden State Warriors,11,108,106,Derek Richardson,Mark Ayotte,Zach Zarba,7,13,
+8059,2020,2021-03-04T03:00:00.000Z,Golden 1 Center,Sacramento Kings,30,Los Angeles Lakers,17,123,120,Matt Boland,Curtis Blair,Jenna Schroeder,11,15,
+8060,2020,2021-03-05T00:00:00.000Z,TD Garden,Boston Celtics,2,Toronto Raptors,38,132,125,Scott Foster,Brent Barnaky,Ben Taylor,6,6,
+8061,2020,2021-03-05T01:00:00.000Z,Bankers Life Fieldhouse,Indiana Pacers,15,Denver Nuggets,9,103,113,JB DeRosa,Eric Lewis,Mark Lindsay,4,2,
+8062,2020,2021-03-05T00:00:00.000Z,Capital One Arena,Washington Wizards,41,LA Clippers,16,119,117,Tony Brothers,Jason Goldenberg,Aaron Smith,9,19,
+8063,2020,2021-03-05T01:00:00.000Z,FedExForum,Memphis Grizzlies,19,Milwaukee Bucks,21,111,112,Marat Kogut,Haywoode Workman,Josh Tiven,5,6,
+8064,2020,2021-03-05T02:00:00.000Z,AT&T Center,San Antonio Spurs,31,Oklahoma City Thunder,25,102,107,James Capers,Nick Buchert,Simone Jelks,3,14,
+8065,2020,2021-03-05T01:30:00.000Z,Smoothie King Center,New Orleans Pelicans,23,Miami Heat,20,93,103,Kevin Scott,CJ Washington,Mitchell Ervin,0,3,
+8066,2020,2021-03-05T03:00:00.000Z,Moda Center,Portland Trail Blazers,29,Sacramento Kings,30,123,119,Zach Zarba,Justin Van Duyne,Tyler Ford,9,11,
+8067,2020,2021-02-03T01:00:00.000Z,Capital One Arena,Washington Wizards,41,Portland Trail Blazers,29,121,132,Kane Fitzgerald,CJ Washington,Dedric Taylor,1,1,
+8068,2020,2021-02-14T18:00:00.000Z,Capital One Arena,Washington Wizards,41,Boston Celtics,2,104,91,Tony Brothers,Eric Dalen,John Conley,2,1,
+8069,2020,2021-02-15T00:00:00.000Z,Little Caesars Arena,Detroit Pistons,10,New Orleans Pelicans,23,123,112,Derek Richardson,Ed Malloy,Andy Nagy,2,1,
+8127,2020,2021-03-17T23:00:00.000Z,Wells Fargo Center,Philadelphia 76ers,27,Milwaukee Bucks,21,105,109,Scott Foster,Mark Lindsay,Jason Goldenberg,9,9,
+8128,2020,2021-03-17T23:00:00.000Z,Capital One Arena,Washington Wizards,41,Sacramento Kings,30,119,121,Sean Wright,Brent Barnaky,CJ Washington,19,7,
+8129,2020,2021-03-18T00:00:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Boston Celtics,2,117,110,Sean Corbin,Suyash Mehta,Natalie Sago,1,1,
+8130,2020,2021-03-18T00:00:00.000Z,United Center,Chicago Bulls,6,San Antonio Spurs,31,99,106,Pat Fraher,Nick Buchert,Evan Scott,0,1,
+8131,2020,2021-03-18T00:00:00.000Z,Toyota Center,Houston Rockets,14,Golden State Warriors,11,94,108,Leon Wood,Kevin Scott,John Conley,0,4,
+8132,2020,2021-03-18T01:00:00.000Z,FedExForum,Memphis Grizzlies,19,Miami Heat,20,89,85,Michael Smith,Courtney Kirkland,Andy Nagy,7,12,
+8133,2020,2020-12-12T00:00:00.000Z,State Farm Arena,Atlanta Hawks,1,Orlando Magic,26,112,116,Scott Wall,Kevin Scott,Jenna Schroeder,,,
+8134,2020,2020-12-12T00:00:00.000Z,Little Caesars Arena,Detroit Pistons,10,New York Knicks,24,84,90,Sean Wright,Lauren Holtkamp,Andy Nagy,,,
+8135,2020,2020-12-12T01:00:00.000Z,United Center,Chicago Bulls,6,Houston Rockets,14,104,125,Josh Tiven,Nick Buchert,Robert Hussey,,,
+8136,2020,2020-12-12T03:00:00.000Z,Staples Center,Los Angeles Lakers,17,LA Clippers,16,87,81,Derek Richardson,James Williams,John Butler,,,
+8137,2020,2020-12-12T03:30:00.000Z,Moda Center,Portland Trail Blazers,29,Sacramento Kings,30,127,102,Bill Spooner,Kevin Cutler,J.T. Orr,,,
+8138,2020,2020-12-13T00:00:00.000Z,Spectrum Center,Charlotte Hornets,5,Toronto Raptors,38,100,111,Brent Barnaky,Ben Taylor,Phenizee Ransom,,,
+8139,2020,2020-12-13T00:00:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Indiana Pacers,15,107,104,Tony Brown,Eric Dalen,Haywoode Workman,,,
+8140,2020,2020-12-13T00:00:00.000Z,AT&T Center,San Antonio Spurs,31,Oklahoma City Thunder,25,108,121,JB DeRosa,Derrick Collins,Matt Myers,,,
+8141,2020,2020-12-13T01:00:00.000Z,Fiserv Forum,Milwaukee Bucks,21,Dallas Mavericks,8,102,112,Courtney Kirkland,Jason Goldenberg,Dannica Mosher,,,
+8142,2020,2020-12-13T01:00:00.000Z,Target Center,Minnesota Timberwolves,22,Memphis Grizzlies,19,105,107,Ken Mauer,Mitchell Ervin,Evan Scott,,,
+8143,2020,2020-12-13T01:30:00.000Z,Chase Center,Golden State Warriors,11,Denver Nuggets,9,107,105,Rodney Mott,Leon Wood,Aaron Smith,,,
+8144,2020,2020-12-13T02:00:00.000Z,Vivint Smart Home Arena,Utah Jazz,40,Phoenix Suns,28,119,105,Mark Ayotte,Justin Van Duyne,Danielle Scott,,,
+8740,2020,2020-12-13T22:00:00.000Z,State Farm Arena,Atlanta Hawks,1,Orlando Magic,26,116,107,Scott Wall,Kevin Scott,Jenna Schroeder,,,
+8741,2020,2020-12-13T23:00:00.000Z,Barclays Center,Brooklyn Nets,4,Washington Wizards,41,119,114,Marat Kogut,Gediminas Petraitis,Brandon Adair,,,
+8742,2020,2020-12-14T00:00:00.000Z,Little Caesars Arena,Detroit Pistons,10,New York Knicks,24,99,91,Sean Wright,Lauren Holtkamp,Andy Nagy,,,
+8743,2020,2020-12-14T01:00:00.000Z,United Center,Chicago Bulls,6,Houston Rockets,14,104,91,Josh Tiven,Nick Buchert,Robert Hussey,,,
+8744,2020,2020-12-14T01:30:00.000Z,Staples Center,Los Angeles Lakers,17,LA Clippers,16,131,106,Derek Richardson,James Williams,John Butler,,,
+8745,2020,2020-12-14T02:00:00.000Z,Moda Center,Portland Trail Blazers,29,Sacramento Kings,30,106,121,Bill Spooner,Kevin Cutler,J.T. Orr,,,
+8151,2020,2020-12-14T23:00:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Indiana Pacers,15,116,106,Tony Brown,Eric Dalen,Haywoode Workman,,,
+8152,2020,2020-12-15T00:00:00.000Z,Spectrum Center,Charlotte Hornets,5,Toronto Raptors,38,109,112,Brent Barnaky,Ben Taylor,Phenizee Ransom,,,
+8153,2020,2020-12-15T00:00:00.000Z,AmericanAirlines Arena,Miami Heat,20,New Orleans Pelicans,23,92,114,JB DeRosa,Derrick Collins,Matt Myers,,,
+8154,2020,2020-12-15T01:00:00.000Z,Fiserv Forum,Milwaukee Bucks,21,Dallas Mavericks,8,112,128,Courtney Kirkland,Jason Goldenberg,Dannica Mosher,,,
+8155,2020,2020-12-15T01:00:00.000Z,Target Center,Minnesota Timberwolves,22,Memphis Grizzlies,19,104,123,Ken Mauer,Mitchell Ervin,Evan Scott,,,
+8156,2020,2020-12-15T02:00:00.000Z,Vivint Smart Home Arena,Utah Jazz,40,Phoenix Suns,28,111,92,Mark Ayotte,Justin Van Duyne,Danielle Scott,,,
+8157,2020,2020-12-16T00:30:00.000Z,Wells Fargo Center,Philadelphia 76ers,27,Boston Celtics,2,108,99,Josh Tiven,Nick Buchert,Suyash Mehta,,,
+8158,2020,2020-12-16T01:00:00.000Z,Toyota Center,Houston Rockets,14,San Antonio Spurs,31,112,98,Bill Spooner,David Guthrie,Brandon Schwab,,,
+8159,2020,2020-12-16T03:00:00.000Z,Golden 1 Center,Sacramento Kings,30,Golden State Warriors,11,114,113,Scott Twardoski,Tyler Ford,Ashley Moyer-Gleich,,,
+8160,2020,2020-12-17T00:30:00.000Z,Madison Square Garden,New York Knicks,24,Cleveland Cavaliers,7,100,93,Leroy Richardson,Marat Kogut,Gediminas Petraitis,,,
+8161,2020,2020-12-17T01:00:00.000Z,Chesapeake Energy Arena,Oklahoma City Thunder,25,Chicago Bulls,6,103,124,Curtis Blair,Haywoode Workman,Aaron Smith,,,
+8162,2020,2020-12-17T02:00:00.000Z,Ball Arena,Denver Nuggets,9,Portland Trail Blazers,29,126,95,Brian Forte,Karl Lane,Matt Kallilo,,,
+8163,2020,2020-12-17T02:00:00.000Z,PHX Arena,Phoenix Suns,28,Los Angeles Lakers,17,107,112,Leon Wood,Bill Kennedy,Simone Jelks,,,
+8164,2020,2020-12-18T00:00:00.000Z,Amway Center,Orlando Magic,26,Charlotte Hornets,5,115,123,Ben Taylor,Dedric Taylor,John Conley,,,
+8165,2020,2020-12-18T00:00:00.000Z,Capital One Arena,Washington Wizards,41,Detroit Pistons,10,86,97,Tony Brothers,Ray Acosta,Jonathan Sterling,,,
+8166,2020,2020-12-18T01:00:00.000Z,Toyota Center,Houston Rockets,14,San Antonio Spurs,31,128,106,Bill Spooner,David Guthrie,Brandon Schwab,,,
+8167,2020,2020-12-18T01:00:00.000Z,FedExForum,Memphis Grizzlies,19,Atlanta Hawks,1,128,106,Michael Smith,Matt Boland,Nate Green,,,
 9542,2021,2021-08-16T00:00:00.000Z,,Houston Rockets,14,Orlando Magic,26,76,89,Brent Haskill,Agon Abazi,Ben Stirt,,,
 9543,2021,2021-08-16T01:00:00.000Z,,New Orleans Pelicans,23,Golden State Warriors,11,80,79,Tyler Mirkovich,Matt Rafferty,Julian McFadden,,,
 9544,2021,2021-08-16T02:00:00.000Z,,Chicago Bulls,6,Memphis Grizzlies,19,91,96,Randy Richardson,Paul Tuomey,Teresa Stuck,,,
@@ -220,6 +281,12 @@ id,season,date,arena,H_team,A_team_id,A_team,A_team_id,H_score,A_score,ref1,ref2
 9557,2021,2021-08-17T23:00:00.000Z,Thomas & Mack Center,Golden State Warriors,11,Los Angeles Lakers,17,76,84,Agon Abazi,J.D. Ralls,Josh Wilson,,,
 9558,2021,2021-08-17T23:30:00.000Z,Cox Pavilion,Minnesota Timberwolves,22,New Orleans Pelicans,23,59,87,Tyler Mirkovich,Kelsey Reynolds,Julian Scott,,,
 9559,2021,2021-08-18T01:00:00.000Z,Thomas & Mack Center,Boston Celtics,2,Sacramento Kings,30,67,100,John Conley,ShaRae Mitchell,Tyler Ricks,,,
+8186,2020,2021-03-25T02:00:00.000Z,Golden 1 Center,Sacramento Kings,30,Atlanta Hawks,1,110,108,Tony Brothers,Jason Goldenberg,Aaron Smith,13,9,
+8187,2020,2021-03-25T23:30:00.000Z,AmericanAirlines Arena,Miami Heat,20,Portland Trail Blazers,29,122,125,Bill Kennedy,Brian Forte,Nate Green,8,24,
+8188,2020,2021-03-25T23:30:00.000Z,Madison Square Garden,New York Knicks,24,Washington Wizards,41,106,102,James Capers,Nick Buchert,Ray Acosta,1,1,
+8189,2020,2021-03-26T00:30:00.000Z,AT&T Center,San Antonio Spurs,31,LA Clippers,16,85,98,Sean Corbin,Scott Foster,Lauren Holtkamp,13,10,
+8190,2020,2021-03-26T02:00:00.000Z,STAPLES Center,Los Angeles Lakers,17,Philadelphia 76ers,27,101,109,Tom Washington,Kane Fitzgerald,Scott Twardoski,9,7,
+8191,2020,2021-03-26T02:00:00.000Z,Golden 1 Center,Sacramento Kings,30,Golden State Warriors,11,141,119,Tony Brothers,Tyler Ford,Natalie Sago,7,4,
 9573,2021,2021-10-21T00:00:00.000Z,Target Center,Minnesota Timberwolves,22,Houston Rockets,14,124,106,Curtis Blair,Tre Maddox,Simone Jelks,,,
 9574,2021,2021-10-21T00:00:00.000Z,Smoothie King Center,New Orleans Pelicans,23,Philadelphia 76ers,27,97,117,Courtney Kirkland,Karl Lane,Danielle Scott,,,
 9575,2021,2021-10-21T00:30:00.000Z,AT&T Center,San Antonio Spurs,31,Orlando Magic,26,123,97,Sean Corbin,Ben Taylor,Jenna Schroeder,,,
@@ -709,53 +776,6 @@ id,season,date,arena,H_team,A_team_id,A_team,A_team_id,H_score,A_score,ref1,ref2
 10255,2021,2022-01-22T01:00:00.000Z,Fiserv Forum,Milwaukee Bucks,21,Chicago Bulls,6,94,90,Josh Tiven,Natalie Sago,John Butler,15,16,
 10256,2021,2022-01-22T01:30:00.000Z,AT&T Center,San Antonio Spurs,31,Brooklyn Nets,4,102,117,Tony Brothers,Tre Maddox,Danielle Scott,12,16,
 10257,2021,2022-01-22T02:00:00.000Z,Ball Arena,Denver Nuggets,9,Memphis Grizzlies,19,118,122,Scott Wall,Pat Fraher,Karl Lane,4,10,
-10258,2021,2022-01-22T02:00:00.000Z,Vivint Arena,Utah Jazz,40,Detroit Pistons,10,111,101,JB DeRosa,James Williams,Brandon Adair,8,12,
-10259,2021,2022-01-22T03:00:00.000Z,Chase Center,Golden State Warriors,11,Houston Rockets,14,105,103,Michael Smith,John Goble,Evan Scott,9,9,
-10260,2021,2022-01-23T01:00:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Oklahoma City Thunder,25,94,87,Tom Washington,Ed Malloy,J.T. Orr,7,6,
-10261,2021,2022-01-23T00:00:00.000Z,Fiserv Forum,Milwaukee Bucks,21,Sacramento Kings,30,133,127,Zach Zarba,Eric Dalen,John Butler,6,1,
-10262,2021,2022-01-23T02:00:00.000Z,Footprint Center,Phoenix Suns,28,Indiana Pacers,15,113,103,James Capers,JB DeRosa,Brandon Adair,3,6,
-10263,2021,2022-01-23T18:00:00.000Z,Madison Square Garden,New York Knicks,24,LA Clippers,16,110,102,Matt Boland,Josh Tiven,Danielle Scott,0,0,
-10264,2021,2022-01-23T20:30:00.000Z,Capital One Arena,Washington Wizards,41,Boston Celtics,2,87,116,David Guthrie,Marat Kogut,Matt Myers,0,0,
-10265,2021,2022-01-23T23:00:00.000Z,FTX Arena,Miami Heat,20,Los Angeles Lakers,17,113,107,James Williams,Dedric Taylor,Phenizee Ransom,1,2,
-10266,2021,2022-01-23T23:00:00.000Z,Amway Center,Orlando Magic,26,Chicago Bulls,6,114,95,Leon Wood,Tyler Ford,Aaron Smith,3,4,
-10267,2021,2022-01-23T23:00:00.000Z,Scotiabank Arena,Toronto Raptors,38,Portland Trail Blazers,29,105,114,Brian Forte,Brent Barnaky,CJ Washington,0,0,
-10268,2021,2022-01-24T00:00:00.000Z,Spectrum Center,Charlotte Hornets,5,Atlanta Hawks,1,91,113,Sean Wright,Gediminas Petraitis,Jacyn Goble,4,1,
-10269,2021,2022-01-24T00:00:00.000Z,AT&T Center,San Antonio Spurs,31,Philadelphia 76ers,27,109,115,Ben Taylor,Ray Acosta,Brandon Schwab,0,6,
-10270,2021,2022-01-24T00:30:00.000Z,American Airlines Center,Dallas Mavericks,8,Memphis Grizzlies,19,104,91,Tony Brothers,Michael Smith,Scott Twardoski,1,0,
-10271,2021,2022-01-24T01:00:00.000Z,Target Center,Minnesota Timberwolves,22,Brooklyn Nets,4,136,125,Curtis Blair,Kevin Cutler,Jason Goldenberg,4,14,
-10272,2021,2022-01-24T01:00:00.000Z,Ball Arena,Denver Nuggets,9,Detroit Pistons,10,117,111,Derek Richardson,Eric Lewis,Andy Nagy,8,9,
-10273,2021,2022-01-24T01:30:00.000Z,Chase Center,Golden State Warriors,11,Utah Jazz,40,94,92,Bennie Adams,Pat Fraher,Karl Lane,5,7,
-10274,2021,2022-01-25T00:00:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,New York Knicks,24,95,93,Scott Wall,Curtis Blair,Justin Van Duyne,14,10,
-10275,2021,2022-03-04T00:00:00.000Z,State Farm Arena,Atlanta Hawks,1,Chicago Bulls,6,130,124,Tom Washington,Josh Tiven,Brandon Adair,9,13,
-10276,2021,2022-01-11T01:00:00.000Z,Toyota Center,Houston Rockets,14,Philadelphia 76ers,27,91,111,Marc Davis,Eric Dalen,Jenna Schroeder,2,1,
-10277,2021,2022-01-25T01:00:00.000Z,Smoothie King Center,New Orleans Pelicans,23,Indiana Pacers,15,117,113,John Goble,Lauren Holtkamp,Tyler Ford,10,12,
-10278,2021,2022-01-25T02:00:00.000Z,Footprint Center,Phoenix Suns,28,Utah Jazz,40,115,109,JB DeRosa,Kane Fitzgerald,Jonathan Sterling,3,14,
-10279,2021,2022-01-26T00:00:00.000Z,Little Caesars Arena,Detroit Pistons,10,Denver Nuggets,9,105,110,Leon Wood,Brent Barnaky,Mousa Dagher,2,5,
-10280,2021,2022-01-26T00:00:00.000Z,Scotiabank Arena,Toronto Raptors,38,Charlotte Hornets,5,125,113,Kevin Cutler,Dedric Taylor,Danielle Scott,3,1,
-10281,2021,2022-01-26T00:00:00.000Z,Capital One Arena,Washington Wizards,41,LA Clippers,16,115,116,Sean Wright,Ray Acosta,Natalie Sago,1,1,
-10282,2021,2022-01-26T00:30:00.000Z,TD Garden,Boston Celtics,2,Sacramento Kings,30,128,75,James Capers,Brian Forte,CJ Washington,0,0,
-10283,2021,2022-01-26T00:30:00.000Z,Barclays Center,Brooklyn Nets,4,Los Angeles Lakers,17,96,106,Tom Washington,Matt Boland,David Guthrie,4,8,
-10284,2021,2022-01-26T01:00:00.000Z,Toyota Center,Houston Rockets,14,San Antonio Spurs,31,104,134,Pat Fraher,Scott Twardoski,Gediminas Petraitis,6,8,
-10285,2021,2022-01-26T03:00:00.000Z,Chase Center,Golden State Warriors,11,Dallas Mavericks,8,130,92,Eric Lewis,Tre Maddox,Jonathan Sterling,1,3,
-10286,2021,2022-01-26T03:00:00.000Z,Moda Center,Portland Trail Blazers,29,Minnesota Timberwolves,22,107,109,JB DeRosa,Karl Lane,Matt Kallio,7,9,
-10287,2021,2022-01-27T00:00:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Milwaukee Bucks,21,115,99,Brent Barnaky,Ben Taylor,Jenna Schroeder,2,1,
-10288,2021,2022-01-27T00:00:00.000Z,Gainbridge Fieldhouse,Indiana Pacers,15,Charlotte Hornets,5,126,158,David Guthrie,Marat Kogut,Mousa Dagher,11,11,
-10289,2021,2022-01-27T00:00:00.000Z,Amway Center,Orlando Magic,26,LA Clippers,16,102,111,Mark Lindsay,Justin Van Duyne,Natalie Sago,6,7,
-10290,2021,2022-01-27T00:30:00.000Z,State Farm Arena,Atlanta Hawks,1,Sacramento Kings,30,121,104,Lauren Holtkamp,Tyler Ford,Evan Scott,1,4,
-10291,2021,2022-03-01T00:30:00.000Z,Barclays Center,Brooklyn Nets,4,Toronto Raptors,38,97,133,Curtis Blair,Matt Myers,Mitchell Ervin,2,4,
-10292,2021,2022-01-27T00:30:00.000Z,FTX Arena,Miami Heat,20,New York Knicks,24,110,96,John Goble,Gediminas Petraitis,Suyash Mehta,0,0,
-10293,2021,2022-01-27T01:30:00.000Z,AT&T Center,San Antonio Spurs,31,Memphis Grizzlies,19,110,118,Bennie Adams,Marc Davis,Curtis Blair,2,7,
-10294,2021,2022-01-29T01:00:00.000Z,Smoothie King Center,New Orleans Pelicans,23,Denver Nuggets,9,105,116,Brent Barnaky,Natalie Sago,Phenizee Ransom,6,5,
-10295,2021,2022-01-25T01:00:00.000Z,Paycom Center,Oklahoma City Thunder,25,Chicago Bulls,6,110,111,Derek Richardson,Marc Davis,Suyash Mehta,6,3,
-10296,2021,2022-01-27T03:00:00.000Z,Vivint Arena,Utah Jazz,40,Phoenix Suns,28,97,105,Eric Lewis,Jason Goldenberg,Jacyn Goble,1,1,
-10297,2021,2022-01-27T03:00:00.000Z,Moda Center,Portland Trail Blazers,29,Dallas Mavericks,8,112,132,Kane Fitzgerald,J.T. Orr,Mitchell Ervin,0,0,
-10298,2021,2022-01-28T00:30:00.000Z,Wells Fargo Center,Philadelphia 76ers,27,Los Angeles Lakers,17,105,87,James Capers,Leon Wood,Kevin Cutler,3,5,
-10299,2021,2022-01-28T03:00:00.000Z,Chase Center,Golden State Warriors,11,Minnesota Timberwolves,22,124,115,Derrick Collins,Brett Nansel,James Williams,10,7,
-10300,2021,2022-01-29T00:30:00.000Z,Spectrum Center,Charlotte Hornets,5,Los Angeles Lakers,17,117,114,Tony Brothers,Bennie Adams,Tyler Ford,1,0,
-10301,2021,2022-01-29T00:00:00.000Z,Amway Center,Orlando Magic,26,Detroit Pistons,10,119,103,Kevin Scott,Jonathan Sterling,John Butler,2,4,
-10302,2021,2022-01-29T00:30:00.000Z,State Farm Arena,Atlanta Hawks,1,Boston Celtics,2,108,92,Scott Wall,Tom Washington,Josh Tiven,5,9,
-10303,2021,2022-01-29T01:00:00.000Z,FTX Arena,Miami Heat,20,LA Clippers,16,121,114,David Guthrie,Karl Lane,Matt Myers,2,1,
-10304,2021,2022-01-29T01:00:00.000Z,Toyota Center,Houston Rockets,14,Portland Trail Blazers,29,110,125,Matt Boland,Ben Taylor,Evan Scott,1,2,
 10305,2021,2022-01-29T01:00:00.000Z,FedExForum,Memphis Grizzlies,19,Utah Jazz,40,119,109,Pat Fraher,Dedric Taylor,Suyash Mehta,3,8,
 10306,2021,2022-01-29T01:00:00.000Z,Paycom Center,Oklahoma City Thunder,25,Indiana Pacers,15,110,113,Mark Lindsay,J.T. Orr,Jason Goldenberg,9,18,
 10307,2021,2022-01-29T01:30:00.000Z,AT&T Center,San Antonio Spurs,31,Chicago Bulls,6,131,122,Curtis Blair,Jacyn Goble,Mousa Dagher,7,12,
@@ -779,7 +799,6 @@ id,season,date,arena,H_team,A_team_id,A_team,A_team_id,H_score,A_score,ref1,ref2
 10325,2021,2022-02-01T00:00:00.000Z,Gainbridge Fieldhouse,Indiana Pacers,15,LA Clippers,16,122,116,JB DeRosa,Pat Fraher,Nick Buchert,8,14,
 10326,2021,2022-02-01T00:00:00.000Z,Wells Fargo Center,Philadelphia 76ers,27,Memphis Grizzlies,19,122,119,Matt Boland,Eric Lewis,Brent Barnaky,14,20,
 10327,2021,2022-02-01T00:30:00.000Z,TD Garden,Boston Celtics,2,Miami Heat,20,122,92,Sean Wright,Marat Kogut,Aaron Smith,1,0,
-10328,2021,2022-02-01T00:30:00.000Z,Madison Square Garden,New York Knicks,24,Sacramento Kings,30,116,96,Tony Brothers,Tre Maddox,Gediminas Petraitis,2,1,
 10329,2021,2022-02-01T01:00:00.000Z,Toyota Center,Houston Rockets,14,Golden State Warriors,11,108,122,Kevin Scott,Andy Nagy,Jacyn Goble,1,6,
 10330,2021,2022-02-01T01:00:00.000Z,Paycom Center,Oklahoma City Thunder,25,Portland Trail Blazers,29,98,81,Derek Richardson,Kevin Cutler,Brett Nansel,6,1,
 10331,2021,2022-02-02T00:00:00.000Z,Little Caesars Arena,Detroit Pistons,10,New Orleans Pelicans,23,101,111,Josh Tiven,J.T. Orr,Scott Twardoski,9,13,
@@ -1047,6 +1066,340 @@ id,season,date,arena,H_team,A_team_id,A_team,A_team_id,H_score,A_score,ref1,ref2
 10593,2021,2022-03-15T02:30:00.000Z,Crypto.com Arena,Los Angeles Lakers,17,Toronto Raptors,38,103,114,James Capers,Derrick Collins,Andy Nagy,0,0,
 10594,2021,2022-03-15T23:00:00.000Z,Gainbridge Fieldhouse,Indiana Pacers,15,Memphis Grizzlies,19,102,135,Sean Wright,Eric Dalen,Justin Van Duyne,3,4,
 10595,2021,2022-03-15T23:00:00.000Z,Amway Center,Orlando Magic,26,Brooklyn Nets,4,108,150,Brent Barnaky,Kane Fitzgerald,Ray Acosta,0,0,
+10805,2021,2021-10-05T02:30:00.000Z,STAPLES Center,LA Clippers,16,Denver Nuggets,9,103,102,Justin Van Duyne,Tyler Ford,John Butler,,,
+10806,2021,2021-10-05T23:30:00.000Z,Madison Square Garden,New York Knicks,24,Indiana Pacers,15,125,104,Zach Zarba,John Conley,J.D. Ralls,,,
+10807,2021,2021-10-06T00:00:00.000Z,United Center,Chicago Bulls,6,Cleveland Cavaliers,7,131,95,Marc Davis,Jacyn Goble,Cheryl Flores,,,
+10808,2021,2021-10-06T00:00:00.000Z,Toyota Center,Houston Rockets,14,Washington Wizards,41,125,119,Eric Lewis,Mitchell Ervin,Jenna Reneau,,,
+10809,2021,2021-10-06T00:00:00.000Z,FedExForum,Memphis Grizzlies,19,Milwaukee Bucks,21,87,77,Michael Smith,Kevin Scott,Matt Kallio,,,
+10810,2021,2021-10-06T23:00:00.000Z,Little Caesars Arena,Detroit Pistons,10,San Antonio Spurs,31,115,105,Ed Malloy,Lauren Holtkamp,Dannica Mosher,,,
+10811,2021,2021-10-06T23:30:00.000Z,State Farm Arena,Atlanta Hawks,1,Cleveland Cavaliers,7,96,99,Sean Wright,Brian Forte,Tyler Ricks,,,
+10812,2021,2021-10-07T00:00:00.000Z,Smoothie King Center,New Orleans Pelicans,23,Orlando Magic,26,104,86,Karl Lane,J.T. Orr,Simone Jelks,,,
+10813,2021,2021-10-07T00:30:00.000Z,American Airlines Center,Dallas Mavericks,8,Utah Jazz,40,111,101,JB DeRosa,Tyler Ford,Jonathan Sterling,,,
+10814,2021,2021-10-07T02:00:00.000Z,Chase Center,Golden State Warriors,11,Denver Nuggets,9,118,116,Kevin Cutler,Brent Barnaky,Suyash Mehta,,,
+10815,2021,2021-10-06T22:00:00.000Z,Footprint Center,Phoenix Suns,28,Los Angeles Lakers,17,117,105,Leon Wood,Curtis Blair,Mousa Dagher,,,
+10816,2021,2021-10-07T02:30:00.000Z,STAPLES Center,LA Clippers,16,Sacramento Kings,30,98,113,Rodney Mott,Scott Twardoski,Robert Hussey,,,
+10817,2021,2021-10-07T23:00:00.000Z,Spectrum Center,Charlotte Hornets,5,Memphis Grizzlies,19,98,128,David Guthrie,Matt Myers,Dedric Taylor,,,
+10818,2021,2021-10-07T23:00:00.000Z,Wells Fargo Center,Philadelphia 76ers,27,Toronto Raptors,38,125,113,Mark Lindsay,Ray Acosta,Evan Scott,,,
+10819,2021,2021-10-08T02:00:00.000Z,Toyota Center,Houston Rockets,14,Miami Heat,20,106,113,Derrick Collins,Gediminas Petraitis,Phenizee Ransom,,,
+10820,2021,2021-10-08T23:00:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Indiana Pacers,15,100,109,James Williams,Brandon Adair,Dannica Mosher,,,
+10821,2021,2021-10-08T23:30:00.000Z,Barclays Center,Brooklyn Nets,4,Milwaukee Bucks,21,119,115,Josh Tiven,Lauren Holtkamp,Jamahl Ralls,,,
+10822,2021,2021-10-09T00:00:00.000Z,United Center,Chicago Bulls,6,New Orleans Pelicans,23,121,85,James Capers,Nick Buchert,Blanca Burns,,,
+10823,2021,2021-10-09T00:30:00.000Z,American Airlines Center,Dallas Mavericks,8,LA Clippers,16,122,114,Scott Wall,Kevin Scott,Matt Kallio,,,
+10824,2021,2021-10-09T00:30:00.000Z,AT&T Center,San Antonio Spurs,31,Miami Heat,20,105,109,Derek Richardson,Sean Wright,Jonathan Sterling,,,
+10825,2021,2021-10-09T01:00:00.000Z,Ball Arena,Denver Nuggets,9,Minnesota Timberwolves,22,112,114,Ed Malloy,Brent Barnaky,Robert Hussey,,,
+10826,2021,2021-10-09T02:00:00.000Z,Chase Center,Golden State Warriors,11,Los Angeles Lakers,17,121,114,Tom Washington,Justin Van Duyne,John Conley,,,
+10827,2021,2021-10-09T23:00:00.000Z,TD Garden,Boston Celtics,2,Toronto Raptors,38,113,111,Eric Lewis,Aaron Smith,Evan Scott,,,
+10828,2021,2021-10-09T23:00:00.000Z,Capital One Arena,Washington Wizards,41,New York Knicks,24,99,117,Scott Foster,Gediminas Petraitis,Jenna Schroeder,,,
+10829,2021,2021-10-10T00:00:00.000Z,FedExForum,Memphis Grizzlies,19,Atlanta Hawks,1,87,91,Michael Smith,Pat Fraher,Danielle Scott,,,
+10830,2021,2021-10-10T22:00:00.000Z,Amway Center,Orlando Magic,26,San Antonio Spurs,31,100,101,Kane Fitzgerald,Dedric Taylor,Jenna Reneau,,,
+10831,2021,2021-10-10T23:00:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Chicago Bulls,6,101,102,JB DeRosa,Karl Lane,Brandon Adair,,,
+10832,2021,2021-10-10T23:30:00.000Z,Fiserv Forum,Milwaukee Bucks,21,Oklahoma City Thunder,25,130,110,James Capers,Brett Nansel,Matt Myers,,,
+10833,2021,2021-10-11T02:00:00.000Z,STAPLES Center,Los Angeles Lakers,17,Phoenix Suns,28,94,123,Matt Boland,Sean Wright,Nate Green,,,
+10834,2021,2021-10-11T23:00:00.000Z,Scotiabank Arena,Toronto Raptors,38,Houston Rockets,14,107,92,James Williams,Suyash Mehta,Natalie Sago,,,
+10835,2021,2021-10-11T23:30:00.000Z,FTX Arena,Miami Heat,20,Charlotte Hornets,5,104,103,Marat Kogut,Ben Taylor,Evan Scott,,,
+10836,2021,2021-10-12T00:00:00.000Z,Wells Fargo Center,Philadelphia 76ers,27,Brooklyn Nets,4,115,104,Ed Malloy,Aaron Smith,Simone Jelks,,,
+10837,2021,2021-10-12T00:00:00.000Z,FedExForum,Memphis Grizzlies,19,Detroit Pistons,10,127,92,Derrick Collins,CJ Washington,Mitchell Ervin,,,
+10838,2021,2021-10-12T01:00:00.000Z,Vivint Arena,Utah Jazz,40,New Orleans Pelicans,23,127,96,Sean Corbin,J.T. Orr,Andy Nagy,,,
+10839,2021,2021-10-12T02:00:00.000Z,Moda Center,Portland Trail Blazers,29,Sacramento Kings,30,93,107,Derek Richardson,Mark Lindsay,John Butler,,,
+10840,2021,2021-10-12T02:30:00.000Z,Toyota Arena,LA Clippers,16,Minnesota Timberwolves,22,100,128,Tony Brothers,Leon Wood,John Conley,,,
+10841,2021,2021-10-12T23:00:00.000Z,Capital One Arena,Washington Wizards,41,Toronto Raptors,38,108,113,Curtis Blair,Brandon Adair,Dannica Mosher,,,
+10842,2021,2021-10-13T02:30:00.000Z,STAPLES Center,Los Angeles Lakers,17,Golden State Warriors,11,99,111,Matt Boland,Tre Maddox,Nate Green,,,
+10843,2021,2021-10-13T22:30:00.000Z,Spectrum Center,Charlotte Hornets,5,Dallas Mavericks,8,59,127,Scott Foster,Brett Nansel,Cheryl Flores,,,
+10844,2021,2021-10-13T23:00:00.000Z,Gainbridge Fieldhouse,Indiana Pacers,15,Memphis Grizzlies,19,109,107,Eric Dalen,Tyler Ford,Andy Nagy,,,
+10845,2021,2021-10-13T23:00:00.000Z,Amway Center,Orlando Magic,26,Boston Celtics,2,103,102,Brent Barnaky,Ben Taylor,Brent Haskill,,,
+10846,2021,2021-10-13T23:30:00.000Z,Madison Square Garden,New York Knicks,24,Detroit Pistons,10,108,100,Michael Smith,Brian Forte,Matt Myers,,,
+10847,2021,2021-10-14T00:00:00.000Z,Paycom Center,Oklahoma City Thunder,25,Denver Nuggets,9,108,99,Mark Lindsay,J.T. Orr,Phenizee Ransom,,,
+10848,2021,2021-10-14T01:00:00.000Z,Vivint Arena,Utah Jazz,40,Milwaukee Bucks,21,124,120,Tony Brothers,Natalie Sago,Brandon Schwab,,,
+10849,2021,2021-10-13T21:00:00.000Z,Footprint Center,Phoenix Suns,28,Portland Trail Blazers,29,119,74,Kevin Cutler,Scott Twardoski,Justin Van Duyne,,,
+10850,2021,2021-10-14T23:00:00.000Z,State Farm Arena,Atlanta Hawks,1,Miami Heat,20,127,92,Courtney Kirkland,Lauren Holtkamp,Simone Jelks,,,
+10851,2021,2021-10-14T23:30:00.000Z,Barclays Center,Brooklyn Nets,4,Minnesota Timberwolves,22,107,101,Scott Wall,Zach Zarba,Jenna Reneau,,,
+10852,2021,2021-10-15T00:00:00.000Z,BOK Center,Oklahoma City Thunder,25,Denver Nuggets,9,107,113,Sean Corbin,Mitchell Ervin,Blanca Burns,,,
+10853,2021,2021-10-15T02:00:00.000Z,Golden 1 Center,Sacramento Kings,30,Los Angeles Lakers,17,116,112,Rodney Mott,Leon Wood,John Butler,,,
+10854,2021,2021-10-15T22:30:00.000Z,FTX Arena,Miami Heat,20,Boston Celtics,2,121,100,David Guthrie,Jacyn Goble,Brent Haskill,,,
+10855,2021,2021-10-15T23:00:00.000Z,Little Caesars Arena,Detroit Pistons,10,Philadelphia 76ers,27,112,108,Pat Fraher,Eric Dalen,Brett Nansel,,,
+10856,2021,2021-10-15T23:00:00.000Z,Gainbridge Fieldhouse,Indiana Pacers,15,Cleveland Cavaliers,7,94,110,Nick Buchert,Kevin Scott,Jamahl Ralls,,,
+10857,2021,2021-10-15T23:30:00.000Z,Madison Square Garden,New York Knicks,24,Washington Wizards,41,115,113,Eric Lewis,Marat Kogut,Danielle Scott,,,
+10858,2021,2021-10-16T00:00:00.000Z,United Center,Chicago Bulls,6,Memphis Grizzlies,19,118,105,Scott Twardoski,James Williams,Matt Kallio,,,
+10859,2021,2021-10-16T00:00:00.000Z,Fiserv Forum,Milwaukee Bucks,21,Dallas Mavericks,8,103,114,Marc Davis,Natalie Sago,Jenna Schroeder,,,
+10860,2021,2021-10-16T00:30:00.000Z,AT&T Center,San Antonio Spurs,31,Houston Rockets,14,126,98,Tre Maddox,Cheryl Flores,Ray Acosta,,,
+10861,2021,2021-10-16T02:00:00.000Z,Chase Center,Golden State Warriors,11,Portland Trail Blazers,29,119,97,Derek Richardson,Derrick Collins,Brandon Schwab,,,
+10865,2021,2022-02-21T01:00:00.000Z,Rocket Mortgage FieldHouse,Team LeBron,35,Team Team Durant,34,163,160,Brian Forte,Kane Fitzgerald,James Williams,,,
+10866,2021,2022-04-13T01:30:00.000Z,Target Center,Minnesota Timberwolves,22,LA Clippers,16,109,104,Scott Foster,Tom Washington,Ed Malloy,9,8,
+10867,2021,2022-04-13T23:00:00.000Z,State Farm Arena,Atlanta Hawks,1,Charlotte Hornets,5,132,103,James Capers,James Williams,Jacyn Goble,2,1,
+10868,2021,2022-04-14T01:30:00.000Z,Smoothie King Center,New Orleans Pelicans,23,San Antonio Spurs,31,113,103,Bill Kennedy,David Guthrie,Sean Wright,2,2,
+10869,2021,2022-04-12T23:00:00.000Z,Barclays Center,Brooklyn Nets,4,Cleveland Cavaliers,7,115,108,JB DeRosa,Curtis Blair,Kane Fitzgerald,0,0,
+10870,2021,2022-04-16T17:00:00.000Z,American Airlines Center,Dallas Mavericks,8,Utah Jazz,40,93,99,James Capers,Pat Fraher,Scott Twardoski,6,5,
+10871,2021,2022-04-16T22:00:00.000Z,Wells Fargo Center,Philadelphia 76ers,27,Toronto Raptors,38,131,111,Bill Kennedy,Derrick Collins,Kane Fitzgerald,0,3,
+10872,2021,2022-04-17T00:30:00.000Z,Chase Center,Golden State Warriors,11,Denver Nuggets,9,123,107,Scott Foster,Ed Malloy,Kevin Cutler,6,9,
+10873,2021,2022-04-17T22:30:00.000Z,Fiserv Forum,Milwaukee Bucks,21,Chicago Bulls,6,93,86,Tony Brothers,Michael Smith,John Goble,2,4,
+10874,2021,2022-04-17T19:30:00.000Z,TD Garden,Boston Celtics,2,Brooklyn Nets,4,115,114,Rodney Mott,Zach Zarba,James Williams,12,20,
+10875,2021,2022-04-16T19:30:00.000Z,FedExForum,Memphis Grizzlies,19,Minnesota Timberwolves,22,117,130,Tom Washington,David Guthrie,Sean Wright,4,2,
+10876,2021,2022-04-18T23:30:00.000Z,Wells Fargo Center,Philadelphia 76ers,27,Toronto Raptors,38,112,97,James Capers,JB DeRosa,Mark Lindsay,8,7,
+10877,2021,2022-04-19T00:30:00.000Z,American Airlines Center,Dallas Mavericks,8,Utah Jazz,40,110,104,Courtney Kirkland,Ed Malloy,David Guthrie,6,13,
+10878,2021,2022-04-19T02:00:00.000Z,Chase Center,Golden State Warriors,11,Denver Nuggets,9,126,106,Curtis Blair,Kevin Cutler,Brent Barnaky,1,1,
+10879,2021,2022-04-20T00:30:00.000Z,FedExForum,Memphis Grizzlies,19,Minnesota Timberwolves,22,124,96,Zach Zarba,James Williams,Mitchell Ervin,7,11,
+10880,2021,2022-04-20T23:00:00.000Z,TD Garden,Boston Celtics,2,Brooklyn Nets,4,114,107,Eric Lewis,Gediminas Petraitis,Tyler Ford,3,1,
+10881,2021,2022-04-21T00:00:00.000Z,Scotiabank Arena,Toronto Raptors,38,Philadelphia 76ers,27,101,104,Marc Davis,Sean Wright,Justin Van Duyne,8,3,
+10882,2021,2022-04-21T01:30:00.000Z,Fiserv Forum,Milwaukee Bucks,21,Chicago Bulls,6,110,114,Derrick Collins,Curtis Blair,Kane Fitzgerald,2,6,
+10883,2021,2022-04-21T23:30:00.000Z,Target Center,Minnesota Timberwolves,22,Memphis Grizzlies,19,95,104,James Capers,Josh Tiven,Scott Twardoski,2,1,
+10884,2021,2022-04-22T01:00:00.000Z,Vivint Arena,Utah Jazz,40,Dallas Mavericks,8,118,126,John Goble,Eric Dalen,Nick Buchert,1,3,
+10885,2021,2022-04-22T02:00:00.000Z,Ball Arena,Denver Nuggets,9,Golden State Warriors,11,113,118,Courtney Kirkland,David Guthrie,Mark Lindsay,11,11,
+10886,2021,2022-04-23T00:30:00.000Z,United Center,Chicago Bulls,6,Milwaukee Bucks,21,81,111,Leon Wood,Marc Davis,Sean Wright,0,2,
+7769,2019,2020-02-15T02:00:00.000Z,United Center,USA USA,39,World World,42,151,131,JB DeRosa,Justin Van Duyne,Ray Acosta,,,"Bridges (20 pts, 5 reb, 5 ast) wins MVP"
+7770,2019,2020-02-17T01:00:00.000Z,United Center,Team Team Durant,34,Team LeBron,35,155,157,Marc Davis,Courtney Kirkland,Eric Lewis,,,"Leonard: 30 pts, named Kia All-Star Game MVP"
+7836,2019,2020-07-30T22:30:00.000Z,HP Field House,New Orleans Pelicans,23,Utah Jazz,40,104,106,Michael Smith,Zach Zarba,James Williams,,,Gobert: GW FTs with 6.9 seconds left
+7837,2019,2020-07-31T01:00:00.000Z,The Arena (WWOS),Los Angeles Lakers,17,LA Clippers,16,103,101,Scott Foster,Tony Brown,Nick Buchert,,,"James, Davis combine for 50 pts"
+7838,2019,2020-07-31T18:30:00.000Z,HP Field House,Brooklyn Nets,4,Orlando Magic,26,118,128,Derrick Collins,Pat Fraher,Aaron Smith,,,"Fournier: 24 points (10-15 FG), 5 assists"
+7839,2019,2020-07-31T20:00:00.000Z,The Arena (WWOS),Portland Trail Blazers,29,Memphis Grizzlies,19,140,135,Bill Kennedy,David Guthrie,Gediminas Petraitis,,,McCollum: 33 points | Lillard: 29 points
+7840,2019,2020-07-31T20:00:00.000Z,VISA Athletic Center,Washington Wizards,41,Phoenix Suns,28,112,125,Sean Corbin,Leon Wood,Ed Malloy,,,"Ayton: 24 points, 12 rebounds, 2 blocks"
+7841,2019,2020-07-31T22:30:00.000Z,HP Field House,Milwaukee Bucks,21,Boston Celtics,2,119,112,James Capers,Brent Barnaky,Kevin Scott,,,"Antetokounmpo: 36 pts, 15 reb, 7 ast"
+7842,2019,2020-08-01T00:00:00.000Z,VISA Athletic Center,San Antonio Spurs,31,Sacramento Kings,30,129,120,Tony Brothers,JB DeRosa,Mark Ayotte,,,"DeRozan: 27 points, 10 assists, 5 rebounds"
+7843,2019,2020-08-01T01:00:00.000Z,The Arena (WWOS),Dallas Mavericks,8,Houston Rockets,14,149,153,Rodney Mott,Marc Davis,Mark Lindsay,,,Harden: 49 points | Doncic: Triple-double
+7844,2019,2020-08-01T17:00:00.000Z,HP Field House,Denver Nuggets,9,Miami Heat,20,105,125,Kane Fitzgerald,James Williams,Dedric Taylor,,,"Butler: 22 pts, 7 ast | Adebayo: 22 pts, 9 reb"
+7845,2019,2020-08-01T19:30:00.000Z,The Arena (WWOS),Oklahoma City Thunder,25,Utah Jazz,40,110,94,Scott Foster,Tyler Ford,Jacyn Goble,,,"Paul: 18 points, 7 rebounds, 7 assists"
+7846,2019,2020-08-01T22:00:00.000Z,HP Field House,LA Clippers,16,New Orleans Pelicans,23,126,103,Matt Boland,Josh Tiven,Ben Taylor,,,Clippers: Franchise record 25 made 3s
+7847,2019,2020-08-01T23:00:00.000Z,VISA Athletic Center,Indiana Pacers,15,Philadelphia 76ers,27,127,121,Eric Lewis,Tre Maddox,Mitchell Ervin,,,Warren: 53 points (20-29 FG)
+7848,2019,2020-08-02T00:30:00.000Z,The Arena (WWOS),Toronto Raptors,38,Los Angeles Lakers,17,107,92,James Capers,Brian Forte,Ray Acosta,,,"Lowry: 33 points, 14 rebounds, 6 assists"
+7849,2019,2020-08-02T18:00:00.000Z,HP Field House,Brooklyn Nets,4,Washington Wizards,41,118,110,Tony Brothers,Mark Ayotte,Kevin Cutler,,,"LeVert: 34 points | Allen: 22 points, 15 rebounds"
+7850,2019,2020-08-02T19:30:00.000Z,The Arena (WWOS),Boston Celtics,2,Portland Trail Blazers,29,128,124,Marc Davis,Courtney Kirkland,Scott Twardoski,,,"Tatum: 34 pts, 8 ast | Lillard: 30 pts, 16 ast"
+7851,2019,2020-08-02T20:00:00.000Z,VISA Athletic Center,Memphis Grizzlies,19,San Antonio Spurs,31,106,108,Sean Wright,Curtis Blair,J.T. Orr,,,"Murray: 21 pts, 10 reb | Morant: 25 pts, 9 reb, 9 ast"
+7852,2019,2020-08-02T22:00:00.000Z,HP Field House,Orlando Magic,26,Sacramento Kings,30,132,116,Sean Corbin,Ed Malloy,Karl Lane,,,"Ross: 25 points | Vucevic: 23 points, 11 rebounds"
+7853,2019,2020-08-03T00:30:00.000Z,The Arena (WWOS),Houston Rockets,14,Milwaukee Bucks,21,120,116,Tony Brown,Zach Zarba,Aaron Smith,,,"Westbrook: 31 pts | Giannis: 36 pts, 18 reb, 8 ast"
+7854,2019,2020-08-03T01:00:00.000Z,VISA Athletic Center,Phoenix Suns,28,Dallas Mavericks,8,117,115,Pat Fraher,Brent Barnaky,Kevin Scott,,,"Booker: 30 points | Doncic: 40 pts, 8 reb, 11 ast"
+10912,2021,2022-04-15T23:30:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Atlanta Hawks,1,101,107,Zach Zarba,Eric Lewis,Tre Maddox,3,5,
+10913,2021,2022-04-16T02:00:00.000Z,Crypto.com Arena,LA Clippers,16,New Orleans Pelicans,23,101,105,Marc Davis,Brian Forte,Mark Lindsay,7,3,
+10914,2021,2022-04-17T17:00:00.000Z,FTX Arena,Miami Heat,20,Atlanta Hawks,1,115,91,Marc Davis,Eric Dalen,Josh Tiven,3,1,
+10915,2021,2022-04-19T23:30:00.000Z,FTX Arena,Miami Heat,20,Atlanta Hawks,1,115,105,John Goble,Eric Dalen,Nick Buchert,11,13,
+7859,2019,2020-08-04T00:00:00.000Z,VISA Athletic Center,Philadelphia 76ers,27,San Antonio Spurs,31,132,130,Mark Lindsay,James Williams,Ray Acosta,,,Embiid: 27 pts | Milton: Go-ahead 3 with 7.2 left
+7860,2019,2020-08-04T01:00:00.000Z,The Arena (WWOS),Utah Jazz,40,Los Angeles Lakers,17,108,116,Eric Lewis,Marat Kogut,Ben Taylor,,,"Davis: 42 points, 12 rebounds, 3 steals"
+10918,2021,2022-04-18T01:00:00.000Z,Footprint Center,Phoenix Suns,28,New Orleans Pelicans,23,110,99,Eric Lewis,Brent Barnaky,Ben Taylor,0,0,
+10919,2021,2022-04-20T02:00:00.000Z,Footprint Center,Phoenix Suns,28,New Orleans Pelicans,23,114,125,Tony Brothers,Scott Foster,Leon Wood,8,20,
+10920,2021,2022-04-22T23:00:00.000Z,State Farm Arena,Atlanta Hawks,1,Miami Heat,20,111,110,JB DeRosa,Eric Lewis,Ben Taylor,7,11,
+10921,2021,2022-04-23T01:30:00.000Z,Smoothie King Center,New Orleans Pelicans,23,Phoenix Suns,28,111,114,Zach Zarba,Curtis Blair,Kevin Cutler,14,15,
+7865,2019,2020-08-04T22:30:00.000Z,HP Field House,Miami Heat,20,Boston Celtics,2,112,106,Tony Brothers,Brian Forte,Karl Lane,,,"Adebayo: 21 points, 12 rebounds"
+7866,2019,2020-08-05T01:00:00.000Z,The Arena (WWOS),Portland Trail Blazers,29,Houston Rockets,14,110,102,Mark Ayotte,Kevin Cutler,Kane Fitzgerald,,,"Lillard: 21 points, 9 rebounds, 8 assists"
+7867,2019,2020-08-05T18:30:00.000Z,HP Field House,Utah Jazz,40,Memphis Grizzlies,19,124,115,Tony Brown,Zach Zarba,Ray Acosta,,,"Gobert: 21 pts, 16 reb | Morant: 20 pts, 9 ast"
+7868,2019,2020-08-05T20:00:00.000Z,The Arena (WWOS),Washington Wizards,41,Philadelphia 76ers,27,98,107,Pat Fraher,Marat Kogut,Nick Buchert,,,"Embiid: 30 pts, 11 reb | Simmons: Exits game (knee)"
+7869,2019,2020-08-05T20:00:00.000Z,VISA Athletic Center,San Antonio Spurs,31,Denver Nuggets,9,126,132,Ed Malloy,Kevin Scott,Jacyn Goble,,,Porter Jr.: Back-to-back 30-point games
+7870,2019,2020-08-05T22:30:00.000Z,HP Field House,Los Angeles Lakers,17,Oklahoma City Thunder,25,86,105,Marc Davis,Derrick Collins,Aaron Smith,,,Thunder hold Lakers to 35.2% shooting
+7871,2019,2020-08-06T00:00:00.000Z,VISA Athletic Center,Orlando Magic,26,Toronto Raptors,38,99,109,Michael Smith,James Williams,Mitchell Ervin,,,"VanVleet: 21 pts, 10 ast | Gordon: Exits game (hamstring)"
+7872,2019,2020-08-06T01:00:00.000Z,The Arena (WWOS),Boston Celtics,2,Brooklyn Nets,4,149,115,Sean Corbin,Leon Wood,David Guthrie,,,Celtics: 7 players score in double figures
+7873,2019,2020-08-06T17:30:00.000Z,HP Field House,Sacramento Kings,30,New Orleans Pelicans,23,140,125,JB DeRosa,John Goble,Mark Lindsay,,,Bogdanovic: Career-high 35 pts | Fox: 30 pts
+7874,2019,2020-08-06T20:00:00.000Z,The Arena (WWOS),Milwaukee Bucks,21,Miami Heat,20,130,116,Eric Lewis,Scott Twardoski,Tyler Ford,,,"Antetokounmpo, Middleton combine for 66 pts"
+7875,2019,2020-08-06T20:00:00.000Z,VISA Athletic Center,Phoenix Suns,28,Indiana Pacers,15,114,99,Kane Fitzgerald,Karl Lane,Ben Taylor,,,"Ayton: 23 pts, 10 reb | Booker: 20 pts, 10 ast"
+7876,2019,2020-08-06T22:30:00.000Z,HP Field House,Dallas Mavericks,8,LA Clippers,16,111,126,James Capers,Brian Forte,Gediminas Petraitis,,,Leonard: 29 pts | Porzingis: 30 pts
+7877,2019,2020-08-07T00:00:00.000Z,VISA Athletic Center,Denver Nuggets,9,Portland Trail Blazers,29,115,125,Bill Kennedy,Matt Boland,Josh Tiven,,,"Lillard: 45 pts (11 3-pointers), 12 ast"
+7878,2019,2020-08-07T01:00:00.000Z,The Arena (WWOS),Houston Rockets,14,Los Angeles Lakers,17,113,97,Scott Foster,Tre Maddox,Dedric Taylor,,,"Harden: 39 pts, 12 ast, 8 reb"
+7879,2019,2020-08-07T17:00:00.000Z,The Field House,San Antonio Spurs,31,Utah Jazz,40,119,111,Michael Smith,Pat Fraher,Aaron Smith,,,"White: 24 points | Poeltl: 19 pts, 10 reb, 3 blk"
+7880,2019,2020-08-07T20:00:00.000Z,VISA Athletic Center,Memphis Grizzlies,19,Oklahoma City Thunder,25,121,92,Tony Brothers,Marat Kogut,Brent Barnaky,,,"Valanciunas: 19 points, 11 rebounds"
+7881,2019,2020-08-07T21:00:00.000Z,AdventHealth Arena,Brooklyn Nets,4,Sacramento Kings,30,119,106,Sean Wright,Nick Buchert,Ray Acosta,,,"Allen: 17 points, 11 rebounds, 8 assists"
+7882,2019,2020-08-07T22:30:00.000Z,The Field House,Philadelphia 76ers,27,Orlando Magic,26,108,101,Zach Zarba,Curtis Blair,Kevin Cutler,,,"Harris: 23 pts, 15 reb | Embiid: 23 pts, 13 reb"
+7883,2019,2020-08-08T00:00:00.000Z,VISA Athletic Center,New Orleans Pelicans,23,Washington Wizards,41,118,107,Tony Brown,Ed Malloy,Mitchell Ervin,,,Holiday: 28 points | Hachimura: 23 points
+7884,2019,2020-08-08T01:00:00.000Z,AdventHealth Arena,Toronto Raptors,38,Boston Celtics,2,100,122,Kane Fitzgerald,Kevin Scott,Jacyn Goble,,,Brown: 20 points | Tatum: 18 points
+7885,2019,2020-08-08T17:00:00.000Z,The Field House,Portland Trail Blazers,29,LA Clippers,16,117,122,Scott Foster,Derrick Collins,Dedric Taylor,,,George: 21 points | McCollum: 29 points
+7886,2019,2020-08-08T19:30:00.000Z,AdventHealth Arena,Denver Nuggets,9,Utah Jazz,40,134,132,Marc Davis,Mark Ayotte,Karl Lane,,,"Jokic: 30 pts, 11 reb | Murray: 23 pts (restart debut)"
+7887,2019,2020-08-08T22:00:00.000Z,The Field House,Indiana Pacers,15,Los Angeles Lakers,17,116,111,Leon Wood,Courtney Kirkland,Josh Tiven,,," Warren: 39 points (15-22 FG, 5-8 3FG)"
+7888,2019,2020-08-08T23:30:00.000Z,VISA Athletic Center,Miami Heat,20,Phoenix Suns,28,112,119,Mark Lindsay,J.T. Orr,James Williams,,,Booker: 35 pts | Suns' 5th straight win
+7889,2019,2020-08-09T00:30:00.000Z,AdventHealth Arena,Dallas Mavericks,8,Milwaukee Bucks,21,136,132,Sean Corbin,JB DeRosa,David Guthrie,,,"Doncic: 36 points, 14 rebounds, 19 assists"
+7890,2019,2020-08-09T16:30:00.000Z,AdventHealth Arena,Oklahoma City Thunder,25,Washington Wizards,41,121,103,Curtis Blair,Kevin Scott,Ray Acosta,,,Bazley: 23 points | Gallinari: 20 points
+7891,2019,2020-08-09T18:00:00.000Z,VISA Athletic Center,Toronto Raptors,38,Memphis Grizzlies,19,108,99,Sean Wright,Kevin Cutler,Gediminas Petraitis,,,Siakam: 26 points | Brooks: 25 points
+7892,2019,2020-08-09T19:00:00.000Z,The Field House,New Orleans Pelicans,23,San Antonio Spurs,31,113,122,Brian Forte,Marat Kogut,Kane Fitzgerald,,,DeRozan: 27 points | Redick: 31 points
+7893,2019,2020-08-09T21:00:00.000Z,AdventHealth Arena,Boston Celtics,2,Orlando Magic,26,122,119,Matt Boland,Tony Brown,Ben Taylor,,,Hayward: 31 points | Tatum: 29 points
+7894,2019,2020-08-09T22:30:00.000Z,VISA Athletic Center,Portland Trail Blazers,29,Philadelphia 76ers,27,124,121,John Goble,Tre Maddox,Scott Twardoski,,,"Lillard: 51 pts (16-28 FGs, 15-16 FTs), 7 ast"
+7895,2019,2020-08-10T00:00:00.000Z,The Field House,Sacramento Kings,30,Houston Rockets,14,112,129,Bill Kennedy,Eric Lewis,Jacyn Goble,,,"Rivers: 41 pts | Harden: 32 pts, 8 reb, 8 ast"
+7896,2019,2020-08-10T01:00:00.000Z,AdventHealth Arena,LA Clippers,16,Brooklyn Nets,4,120,129,Tony Brothers,Tyler Ford,Aaron Smith,,,"LeVert: 27 points, 13 assists | Leonard: 39 pts"
+7897,2019,2020-08-10T18:30:00.000Z,The Field House,Phoenix Suns,28,Oklahoma City Thunder,25,128,101,Courtney Kirkland,Josh Tiven,Mitchell Ervin,,,"Booker: 35 points | Bazley: 22 points, 10 rebounds"
+7898,2019,2020-08-10T19:00:00.000Z,AdventHealth Arena,Utah Jazz,40,Dallas Mavericks,8,114,122,Leon Wood,Ed Malloy,Mark Lindsay,,,"Hardaway Jr.: 27 points | Marjanovic: 20 pts, 9 reb"
+7899,2019,2020-08-10T22:30:00.000Z,The Field House,Milwaukee Bucks,21,Toronto Raptors,38,106,114,Scott Foster,Mark Ayotte,Karl Lane,,,"Boucher: 25 points, 11 rebounds | Thomas: 22 pts"
+7900,2019,2020-08-11T00:00:00.000Z,VISA Athletic Center,Miami Heat,20,Indiana Pacers,15,114,92,Derrick Collins,Pat Fraher,Dedric Taylor,,,"Butler: 19 pts, 11 reb | Warren: 12 pts, 5 reb"
+7901,2019,2020-08-11T01:00:00.000Z,AdventHealth Arena,Los Angeles Lakers,17,Denver Nuggets,9,124,121,Sean Corbin,JB DeRosa,Zach Zarba,,,Kuzma: 25 pts (game-winning 3 with 0.4)
+7902,2019,2020-08-11T17:00:00.000Z,AdventHealth Arena,Orlando Magic,26,Brooklyn Nets,4,96,108,James Capers,Brent Barnaky,Jacyn Goble,,,Martin: career-high 24 points
+7903,2019,2020-08-11T18:00:00.000Z,The Field House,San Antonio Spurs,31,Houston Rockets,14,123,105,Tony Brown,John Goble,Gediminas Petraitis,,,"Johnson: career-high 24 points, 11 rebounds"
+7904,2019,2020-08-11T20:30:00.000Z,VISA Athletic Center,Philadelphia 76ers,27,Phoenix Suns,28,117,130,Marc Davis,Nick Buchert,Aaron Smith,,,"Booker: 35 points, 9 rebounds | Bridges: 24 points"
+7905,2019,2020-08-11T22:30:00.000Z,The Field House,Dallas Mavericks,8,Portland Trail Blazers,29,131,134,Marat Kogut,Kane Fitzgerald,Ben Taylor,,,"Lillard: 61 points (17-32 FG, 9-17 3FG)"
+7906,2019,2020-08-11T21:00:00.000Z,AdventHealth Arena,Memphis Grizzlies,19,Boston Celtics,2,107,122,Eric Lewis,Curtis Blair,Ray Acosta,,,"Tatum: 29 points | Morant: 26 points, 13 assists"
+7907,2019,2020-08-12T01:00:00.000Z,AdventHealth Arena,Sacramento Kings,30,New Orleans Pelicans,23,112,106,Tony Brothers,Tre Maddox,Scott Twardoski,,,"Barnes: 25 pts, 8 reb | Bogdanovic: 16 pts, 7 ast"
+7908,2019,2020-08-12T01:00:00.000Z,VISA Athletic Center,Washington Wizards,41,Milwaukee Bucks,21,113,126,Brian Forte,J.T. Orr,James Williams,,,B. Lopez: 24 points | Giannis: Ejected in 2nd quarter
+7909,2019,2020-08-12T20:00:00.000Z,AdventHealth Arena,Houston Rockets,14,Indiana Pacers,15,104,108,Sean Corbin,Ed Malloy,Karl Lane,,,"Turner: 18 pts, 12 reb | Harden: 45 pts, 17 reb, 9 ast"
+7910,2019,2020-08-12T22:30:00.000Z,The Field House,Philadelphia 76ers,27,Toronto Raptors,38,121,125,Michael Smith,David Guthrie,Tyler Ford,,,"Lowry, Boucher: 19 pts each | Siakam: 15 pts, 9 reb"
+7911,2019,2020-08-13T00:00:00.000Z,VISA Athletic Center,Oklahoma City Thunder,25,Miami Heat,20,116,115,Mark Ayotte,Sean Wright,Kevin Cutler,,,"Bazley: 21 points, 9 rebounds | Herro: 30 points"
+7912,2019,2020-08-13T01:00:00.000Z,AdventHealth Arena,Denver Nuggets,9,LA Clippers,16,111,124,Courtney Kirkland,John Goble,Mark Lindsay,,,"George: 23 points, 7 assists | Leonard: 26 points"
+7913,2019,2020-08-13T16:00:00.000Z,AdventHealth Arena,Boston Celtics,2,Washington Wizards,41,90,96,Derrick Collins,Pat Fraher,Dedric Taylor,,,"Bryant: 26 pts, 9 reb, 4 stl, 2 blk"
+7914,2019,2020-08-14T01:00:00.000Z,AdventHealth Arena,Brooklyn Nets,4,Portland Trail Blazers,29,133,134,Eric Lewis,J.T. Orr,Gediminas Petraitis,,,Lillard: 42 pts | Blazers clinch Play-In spot
+7915,2019,2020-08-13T17:30:00.000Z,The Field House,Los Angeles Lakers,17,Sacramento Kings,30,122,136,James Capers,Brian Forte,Brent Barnaky,,,"Hield: 28 pts | Bogdanovic: 27 pts, 9 ast"
+7916,2019,2020-08-13T20:00:00.000Z,VISA Athletic Center,Memphis Grizzlies,19,Milwaukee Bucks,21,119,106,Marc Davis,Matt Boland,Ben Taylor,,,Morant: Triple-double | Grizzlies clinch Play-In spot
+7917,2019,2020-08-14T01:00:00.000Z,VISA Athletic Center,Orlando Magic,26,New Orleans Pelicans,23,133,127,Leon Wood,Josh Tiven,Kevin Scott,,,Magic: 7 players score in double figures
+7918,2019,2020-08-13T20:00:00.000Z,AdventHealth Arena,Phoenix Suns,28,Dallas Mavericks,8,128,102,Bill Kennedy,Zach Zarba,Scott Twardoski,,,Booker: 27 pts | Suns go 8-0 in restart
+7919,2019,2020-08-13T22:30:00.000Z,The Field House,Utah Jazz,40,San Antonio Spurs,31,118,112,Scott Foster,Tre Maddox,Mitchell Ervin,,,Spurs miss playoffs for first time in 23 seasons
+7920,2019,2020-08-15T01:00:00.000Z,AdventHealth Arena,Houston Rockets,14,Philadelphia 76ers,27,96,134,Courtney Kirkland,Kevin Cutler,Kane Fitzgerald,,,
+7921,2019,2020-08-14T20:00:00.000Z,AdventHealth Arena,Indiana Pacers,15,Miami Heat,20,109,92,John Goble,Marat Kogut,Tyler Ford,,,
+7922,2019,2020-08-14T22:30:00.000Z,The Field House,LA Clippers,16,Oklahoma City Thunder,25,107,103,Michael Smith,David Guthrie,Nick Buchert,,,
+7923,2019,2020-08-14T17:30:00.000Z,The Field House,Toronto Raptors,38,Denver Nuggets,9,117,109,Tony Brothers,Tony Brown,Curtis Blair,,,"S. Johnson 23 pts, 6 ast | PJ Dozier 20 pts, 8 ast"
+7924,2019,2020-07-22T19:00:00.000Z,The Arena (WWOS),LA Clippers,16,Orlando Magic,26,99,90,Zach Zarba,James Williams,Jacyn Goble,,,Scrimmage: Williams leads with 22 points
+7925,2019,2020-07-22T19:30:00.000Z,HP Field House,Denver Nuggets,9,Washington Wizards,41,89,82,Bill Kennedy,Tony Brown,Ray Acosta,,,Scrimmage: Bol tallies 16 points and 6 blocks
+7926,2019,2020-07-22T23:00:00.000Z,The Arena (WWOS),Brooklyn Nets,4,New Orleans Pelicans,23,68,99,Scott Foster,Leon Wood,Brian Forte,,,Scrimmage: Ingram scores 12 pts in 11 min
+7927,2019,2020-07-23T00:00:00.000Z,HP Field House,Miami Heat,20,Sacramento Kings,30,104,98,Pat Fraher,Brent Barnaky,Mitchell Ervin,,,Scrimmage: Robinson scores 18 (5-8 3FG)
+7928,2019,2020-07-23T19:00:00.000Z,VISA Athletic Center,Milwaukee Bucks,21,San Antonio Spurs,31,113,92,Marc Davis,Ben Taylor,Dedric Taylor,,,Scrimmage: Giannis scores 23 points in 21 minutes
+7929,2019,2020-07-23T19:30:00.000Z,HP Field House,Indiana Pacers,15,Portland Trail Blazers,29,91,88,Tony Brothers,Marat Kogut,Nick Buchert,,,Scrimmage: Justin Holiday scores 16 points off bench
+7930,2019,2020-07-23T23:00:00.000Z,VISA Athletic Center,Los Angeles Lakers,17,Dallas Mavericks,8,104,108,James Capers,Sean Corbin,Jacyn Goble,,,"Scrimmage: Curry shoots 8-for-8, scores 23"
+7931,2019,2020-07-24T00:00:00.000Z,HP Field House,Utah Jazz,40,Phoenix Suns,28,88,101,JB DeRosa,Courtney Kirkland,David Guthrie,,,"Scrimmage: Ayton collects 13 points, 8 rebounds"
+7932,2019,2020-07-24T19:30:00.000Z,The Arena (WWOS),Philadelphia 76ers,27,Memphis Grizzlies,19,90,83,Michael Smith,John Goble,Aaron Smith,,,Scrimmage: Simmons nears triple-double in win
+7933,2019,2020-07-24T21:00:00.000Z,VISA Athletic Center,Boston Celtics,2,Oklahoma City Thunder,25,84,98,Mark Ayotte,Brent Barnaky,Kane Fitzgerald,,,"Scrimmage: Adams, Gilgeous-Alexander score 17 apiece"
+7934,2019,2020-07-24T23:30:00.000Z,The Arena (WWOS),Toronto Raptors,38,Houston Rockets,14,94,83,Eric Lewis,Tre Maddox,Scott Twardoski,,,Scrimmage: Ibaka (18 points) leads all-around effort
+7935,2019,2020-07-25T16:00:00.000Z,HP Field House,Orlando Magic,26,Los Angeles Lakers,17,112,119,Mark Lindsay,Josh Tiven,Mitchell Ervin,,,Scrimmage: Kuzma scores 25 off bench
+7936,2019,2020-07-25T16:30:00.000Z,The Arena (WWOS),Sacramento Kings,30,Milwaukee Bucks,21,123,131,Scott Foster,Leon Wood,Curtis Blair,,,Scrimmage: Lopez nets 21 in Bucks win
+7937,2019,2020-07-25T20:00:00.000Z,HP Field House,Utah Jazz,40,Miami Heat,20,101,99,Rodney Mott,Matt Boland,Gediminas Petraitis,,,Scrimmage: Gobert scores 21 in 23 minutes
+7938,2019,2020-07-25T20:30:00.000Z,The Arena (WWOS),San Antonio Spurs,31,Brooklyn Nets,4,119,124,Derrick Collins,James Williams,Ray Acosta,,,Scrimmage: LeVert drops 27 for short-handed Nets
+7939,2019,2020-07-26T00:00:00.000Z,HP Field House,Washington Wizards,41,LA Clippers,16,100,105,Marat Kogut,Kevin Scott,Tyler Ford,,,Scrimmage: 7 Clippers score in double figures
+7940,2019,2020-07-26T00:30:00.000Z,The Arena (WWOS),New Orleans Pelicans,23,Denver Nuggets,9,119,104,Sean Wright,Ben Taylor,Jacyn Goble,,,Scrimmage: Daniels erupts for 28 off bench
+7941,2019,2020-07-26T16:00:00.000Z,HP Field House,Oklahoma City Thunder,25,Philadelphia 76ers,27,102,97,Sean Corbin,Pat Fraher,Dedric Taylor,,,Scrimmage: Roberson hits two clutch 3-pointers
+7942,2019,2020-07-26T17:30:00.000Z,VISA Athletic Center,Boston Celtics,2,Phoenix Suns,28,117,103,Tony Brothers,Nick Buchert,Karl Lane,,,Scrimmage: Brown leads with 21 points
+7943,2019,2020-07-26T20:00:00.000Z,HP Field House,Dallas Mavericks,8,Indiana Pacers,15,111,118,Michael Smith,Zach Zarba,Scott Twardoski,,,Scrimmage: Warren scores 20 in victory
+7944,2019,2020-07-26T22:00:00.000Z,VISA Athletic Center,Toronto Raptors,38,Portland Trail Blazers,29,110,104,Tony Brown,Brent Barnaky,Aaron Smith,,,"Scrimmage: Davis, Thomas combine for eight 3s"
+7945,2019,2020-07-27T00:00:00.000Z,HP Field House,Memphis Grizzlies,19,Houston Rockets,14,104,119,JB DeRosa,Ed Malloy,Brian Forte,,,"Scrimmage: Harden drops 31 pts, 8 reb, 9 ast"
+7946,2019,2020-07-27T19:00:00.000Z,VISA Athletic Center,Los Angeles Lakers,17,Washington Wizards,41,123,116,Matt Boland,David Guthrie,Curtis Blair,,,Scrimmage: Smith leads with 20 points
+7947,2019,2020-07-27T20:00:00.000Z,The Arena (WWOS),LA Clippers,16,Sacramento Kings,30,102,106,Eric Lewis,Gediminas Petraitis,Ray Acosta,,,Scrimmage: Bogdanovic scores game-high 21
+7948,2019,2020-07-27T21:30:00.000Z,HP Field House,Brooklyn Nets,4,Utah Jazz,40,107,112,Mark Lindsay,Josh Tiven,J.T. Orr,,,"Scrimmage: Gobert gets 20 points, 7 rebounds"
+7949,2019,2020-07-27T23:00:00.000Z,VISA Athletic Center,Denver Nuggets,9,Orlando Magic,26,110,114,James Capers,Leon Wood,Mark Ayotte,,,"Scrimmage: Isaac returns with 13 pts, 7 reb"
+7950,2019,2020-07-28T00:00:00.000Z,The Arena (WWOS),Milwaukee Bucks,21,New Orleans Pelicans,23,103,124,Courtney Kirkland,Tre Maddox,Mitchell Ervin,,,"Scrimmage: Antetokounmpo tallies 30 pts, 8 reb"
+7951,2019,2020-07-28T18:00:00.000Z,VISA Athletic Center,Miami Heat,20,Memphis Grizzlies,19,110,128,Marc Davis,Marat Kogut,Scott Twardoski,,,"Scrimmage: Morant tallies 22 points, 12 assists"
+7952,2019,2020-07-28T19:00:00.000Z,The Arena (WWOS),Phoenix Suns,28,Toronto Raptors,38,117,106,Bill Kennedy,Derrick Collins,Dedric Taylor,,,Scrimmage: Bridges leads Suns with 26 points
+7953,2019,2020-07-28T20:00:00.000Z,HP Field House,Indiana Pacers,15,San Antonio Spurs,31,111,118,Matt Boland,Ed Malloy,Kevin Scott,,,Scrimmage: DeRozan scores 17 with 7 rebounds
+7954,2019,2020-07-28T22:00:00.000Z,VISA Athletic Center,Portland Trail Blazers,29,Oklahoma City Thunder,25,120,131,JB DeRosa,Rodney Mott,Sean Wright,,,Scrimmage: Simons scores game-high 23
+7955,2019,2020-07-29T00:00:00.000Z,The Arena (WWOS),Houston Rockets,14,Boston Celtics,2,137,112,John Goble,J.T. Orr,Tyler Ford,,,Scrimmage: Harden scores 35 (8-for-13 3FG)
+7956,2019,2020-07-29T00:30:00.000Z,HP Field House,Philadelphia 76ers,27,Dallas Mavericks,8,115,118,Kane Fitzgerald,Karl Lane,Ben Taylor,,,"Scrimmage: Porzingis puts up 17 pts, 12 reb"
+7963,2019,2020-08-17T17:30:00.000Z,The Field House,Denver Nuggets,9,Utah Jazz,40,135,125,Scott Foster,Michael Smith,Sean Wright,,,Murray: 36 pts | Mitchell: 57 pts (3rd most in playoff history)
+7964,2019,2020-08-17T20:00:00.000Z,AdventHealth Arena,Toronto Raptors,38,Brooklyn Nets,4,134,110,Leon Wood,Tony Brown,Brian Forte,,,"VanVleet: 30 pts (8-10 3FG), 11 ast | Siakam: 18 pts, 11 reb"
+7965,2019,2020-08-17T22:30:00.000Z,The Field House,Boston Celtics,2,Philadelphia 76ers,27,109,101,Sean Corbin,Pat Fraher,Zach Zarba,,," Tatum: 32 points, 13 rebounds | Brown: 29 points"
+7966,2019,2020-08-18T01:00:00.000Z,AdventHealth Arena,LA Clippers,16,Dallas Mavericks,8,118,110,Mark Ayotte,Eric Lewis,Kane Fitzgerald,,,"Leonard: 29 points, 12 rebounds | Doncic: 42 points"
+7967,2019,2020-08-18T17:30:00.000Z,The Field House,Milwaukee Bucks,21,Orlando Magic,26,110,122,Tony Brothers,Bill Kennedy,Ben Taylor,,,"Vucevic: 35 pts, 14 reb | Giannis: 31 pts, 17 reb"
+7968,2019,2020-08-19T17:30:00.000Z,The Field House,Toronto Raptors,38,Brooklyn Nets,4,104,99,Sean Corbin,Brian Forte,Kane Fitzgerald,,,"VanVleet: 24 pts, 10 ast | Lowry: 24 pts"
+7969,2019,2020-08-19T20:00:00.000Z,AdventHealth Arena,Denver Nuggets,9,Utah Jazz,40,105,124,Michael Smith,Pat Fraher,Zach Zarba,,,"Mitchell: 30 pts | Jokic: 28 pts, 11 reb"
+7970,2019,2020-08-19T22:30:00.000Z,The Field House,Boston Celtics,2,Philadelphia 76ers,27,128,101,Mark Ayotte,Tony Brown,John Goble,,,Tatum: Playoff career-high 33 pts | Embiid: 34 pts
+7971,2019,2020-08-20T01:00:00.000Z,AdventHealth Arena,LA Clippers,16,Dallas Mavericks,8,114,127,Scott Foster,Courtney Kirkland,Sean Wright,,,"Doncic: 28 pts, 8 reb, 7 ast | Leonard: 35 pts, 10 reb"
+7972,2019,2020-08-20T22:00:00.000Z,The Field House,Milwaukee Bucks,21,Orlando Magic,26,111,96,David Guthrie,Tre Maddox,James Williams,,,"Giannis: 28 pts, 20 reb | Connaughton: 15 pts, 10 reb"
+7973,2019,2020-08-21T17:30:00.000Z,The Field House,Brooklyn Nets,4,Toronto Raptors,38,92,117,Pat Fraher,Zach Zarba,Kevin Cutler,,,Siakam: 26 points | VanVleet: 22 points (6-10 3FG)
+7974,2019,2020-08-21T20:00:00.000Z,AdventHealth Arena,Utah Jazz,40,Denver Nuggets,9,124,87,Eric Lewis,Kane Fitzgerald,Nick Buchert,,,"Gobert: 24 points, 14 rebounds | Conely: 27 points"
+7975,2019,2020-08-21T22:30:00.000Z,The Field House,Philadelphia 76ers,27,Boston Celtics,2,94,102,Scott Foster,Courtney Kirkland,Sean Wright,,,"Walker: 24 pts, 8 ast | Embiid: 30 pts, 13 reb"
+7976,2019,2020-08-22T01:00:00.000Z,AdventHealth Arena,Dallas Mavericks,8,LA Clippers,16,122,130,Derrick Collins,Tony Brown,John Goble,,,"Leonard: 36 points, 9 rebounds, 8 assists"
+7977,2019,2020-08-22T17:00:00.000Z,The Field House,Orlando Magic,26,Milwaukee Bucks,21,107,121,Michael Smith,Marc Davis,Kevin Scott,,,"Giannis: 35 points, 11 rebounds, 7 assists"
+7978,2019,2020-08-23T17:00:00.000Z,The Field House,Philadelphia 76ers,27,Boston Celtics,2,106,110,Eric Lewis,Kane Fitzgerald,Dedric Taylor,,,"Walker: 32 points | Tatum: 28 points, 15 rebounds"
+7979,2019,2020-08-23T19:30:00.000Z,AdventHealth Arena,Dallas Mavericks,8,LA Clippers,16,135,133,Zach Zarba,Kevin Cutler,Nick Buchert,,,"Doncic: 40-point triple-double, OT game-winner"
+7980,2019,2020-08-23T22:30:00.000Z,The Field House,Brooklyn Nets,4,Toronto Raptors,38,122,150,Scott Foster,Rodney Mott,Derrick Collins,,,"Ibaka, Powell combine for 56 points off bench"
+7981,2019,2020-08-24T01:00:00.000Z,AdventHealth Arena,Utah Jazz,40,Denver Nuggets,9,129,127,Sean Corbin,Mark Ayotte,Brian Forte,,,Mitchell: 51 points | Murray: 50 points
+7982,2019,2020-08-24T17:30:00.000Z,The Field House,Orlando Magic,26,Milwaukee Bucks,21,106,121,James Capers,Courtney Kirkland,Ed Malloy,,,"Giannis: 31 pts, 15 reb, 8 ast | Middleton: 21 pts (18 in 4th)"
+7985,2019,2020-08-26T01:00:00.000Z,AdventHealth Arena,LA Clippers,16,Dallas Mavericks,8,154,111,Michael Smith,Pat Fraher,Kane Fitzgerald,,,George: 35 points | Leonard: 32 points
+7986,2019,2020-08-25T22:30:00.000Z,The Field House,Denver Nuggets,9,Utah Jazz,40,117,107,Scott Foster,Tony Brown,James Williams,,,"Murray: 42 pts (33 in 2nd half), 8 reb, 8 ast"
+7987,2019,2020-08-29T19:30:00.000Z,AdventHealth Arena,Milwaukee Bucks,21,Orlando Magic,26,118,104,Tony Brothers,Derrick Collins,Josh Tiven,,,"Giannis: 28 pts, 17 reb | Middleton: 21 pts, 10 reb"
+7990,2019,2020-08-30T19:30:00.000Z,AdventHealth Arena,Dallas Mavericks,8,LA Clippers,16,97,111,Sean Corbin,Scott Foster,Michael Smith,,,"Leonard: 33 pts, 14 reb | Doncic: 38 pts, 9 ast"
+7991,2019,2020-08-31T00:30:00.000Z,AdventHealth Arena,Utah Jazz,40,Denver Nuggets,9,107,119,Courtney Kirkland,Zach Zarba,Sean Wright,,,Murray: 50 pts (17-24 FGs) | Mitchell: 44 points
+7996,2019,2020-09-02T00:30:00.000Z,AdventHealth Arena,Denver Nuggets,9,Utah Jazz,40,80,78,James Capers,Bill Kennedy,Ed Malloy,,,Jokic: 30 pts | DEN: 12th team to overcome 3-1 deficit
+8000,2019,2020-08-15T18:30:00.000Z,The Field House,Portland Trail Blazers,29,Memphis Grizzlies,19,126,122,James Capers,Pat Fraher,Tony Brown,,,
+8002,2019,2020-08-18T20:00:00.000Z,AdventHealth Arena,Indiana Pacers,15,Miami Heat,20,101,113,Ed Malloy,David Guthrie,Mark Lindsay,,,Dragic: 14 of 24 in 4th | Butler: 10 of 28 in 4th
+8003,2019,2020-08-18T22:30:00.000Z,The Field House,Houston Rockets,14,Oklahoma City Thunder,25,123,108,James Capers,Derrick Collins,Josh Tiven,,,"Harden: 37 points | Paul: 20 pts, 10 reb, 9 ast"
+8004,2019,2020-08-20T17:00:00.000Z,The Field House,Indiana Pacers,15,Miami Heat,20,100,109,James Capers,Derrick Collins,Josh Tiven,,,Robinson: 24 pts (7-8 3FG) | Dragic: 20 pts
+8005,2019,2020-08-20T19:30:00.000Z,AdventHealth Arena,Houston Rockets,14,Oklahoma City Thunder,25,111,98,Marc Davis,Kevin Scott,Ben Taylor,,,"Harden: 21 pts, 9 ast | House: 19 pts, 9 reb"
+8006,2019,2020-08-22T19:30:00.000Z,AdventHealth Arena,Miami Heat,20,Indiana Pacers,15,124,115,Tony Brothers,Tre Maddox,Ben Taylor,,,"Butler: 27 pts | Adebayo: 22 pts, 11 reb"
+8007,2019,2020-08-22T22:00:00.000Z,The Field House,Oklahoma City Thunder,25,Houston Rockets,14,119,107,Leon Wood,Ed Malloy,David Guthrie,,,4 Thunder players score 20-plus
+8008,2019,2020-08-24T20:00:00.000Z,AdventHealth Arena,Oklahoma City Thunder,25,Houston Rockets,14,117,114,Tony Brothers,Bill Kennedy,Mark Lindsay,,,Schroder: Playoff career-high 30 pts  | Paul: 26 pts
+8009,2019,2020-08-24T22:30:00.000Z,The Field House,Miami Heat,20,Indiana Pacers,15,99,87,Marc Davis,Kevin Scott,Gediminas Petraitis,,,"Dragic: 23 points | Adebayo: 14 pts, 19 reb, 6 ast"
+8011,2019,2020-08-29T22:30:00.000Z,The Field House,Houston Rockets,14,Oklahoma City Thunder,25,114,80,James Capers,Rodney Mott,Eric Lewis,,,Harden: 31 points in 28 minutes | Gordon: 20 points
+8013,2019,2020-09-01T01:00:00.000Z,AdventHealth Arena,Oklahoma City Thunder,25,Houston Rockets,14,104,100,Marc Davis,Josh Tiven,Tre Maddox,,,Paul: 28 points (15 in 4th) | Gallinari: 25 pts
+8015,2019,2020-09-03T01:00:00.000Z,AdventHealth Arena,Houston Rockets,14,Oklahoma City Thunder,25,104,102,Scott Foster,Pat Fraher,Tony Brown,,,"Westbrook: 20 pts, 9 reb | Covington: 21 pts, 10 reb"
+8016,2019,2020-08-19T01:00:00.000Z,AdventHealth Arena,Los Angeles Lakers,17,Portland Trail Blazers,29,93,100,Marc Davis,Tre Maddox,James Williams,,,"Lillard: 34 pts | James: 23 pts, 17 reb, 16 ast"
+8017,2019,2020-08-21T01:00:00.000Z,AdventHealth Arena,Los Angeles Lakers,17,Portland Trail Blazers,29,111,88,Tony Brothers,Bill Kennedy,Dedric Taylor,,,"Davis: 31 pts, 11 reb | Lillard: Exits in 3rd quarter (finger)"
+8018,2019,2020-08-23T00:30:00.000Z,AdventHealth Arena,Portland Trail Blazers,29,Los Angeles Lakers,17,108,116,James Capers,Mark Ayotte,Josh Tiven,,,"James: 38 points, 12 rebounds, 8 assists"
+8019,2019,2020-08-25T01:00:00.000Z,AdventHealth Arena,Portland Trail Blazers,29,Los Angeles Lakers,17,115,135,Rodney Mott,David Guthrie,Ben Taylor,,,LeBron: 30 pts | Davis: 18 pts in 17 min (back spasms)
+8020,2019,2020-08-30T01:00:00.000Z,AdventHealth Arena,Los Angeles Lakers,17,Portland Trail Blazers,29,131,122,Leon Wood,Marc Davis,Curtis Blair,,,"Davis: 43 points | LeBron: 36 pts, 10 reb, 10 ast"
+8047,2019,2020-08-30T17:00:00.000Z,The Field House,Toronto Raptors,38,Boston Celtics,2,94,112,Ed Malloy,John Goble,James Williams,,,"Walker: 18 pts, 10 ast | Tatum: 21 pts, 9 reb"
+8048,2019,2020-09-01T21:30:00.000Z,The Field House,Toronto Raptors,38,Boston Celtics,2,99,102,Tony Brothers,Sean Corbin,Leon Wood,,,"Smart: 19 pts (5 3s, 16 pts in 4th) | Tatum: 34 pts, 8 reb"
+8049,2019,2020-09-03T22:30:00.000Z,The Field House,Boston Celtics,2,Toronto Raptors,38,103,104,James Capers,Rodney Mott,Josh Tiven,,,Anunoby: GW buzzer-beater | Walker: 29 pts
+8050,2019,2020-09-05T22:30:00.000Z,The Field House,Boston Celtics,2,Toronto Raptors,38,93,100,Bill Kennedy,Marc Davis,Derrick Collins,,,"Siakam: 23 pts, 11 reb | Lowry: 22 pts, 11 reb, 7 ast"
+8051,2019,2020-09-07T22:30:00.000Z,The Field House,Toronto Raptors,38,Boston Celtics,2,89,111,Michael Smith,Courtney Kirkland,Eric Lewis,,,"Brown: 27 points | Tatum: 18 points, 10 rebounds"
+8094,2019,2020-09-09T22:30:00.000Z,The Field House,Boston Celtics,2,Toronto Raptors,38,122,125,Tony Brothers,Sean Wright,John Goble,,,"Lowry: 33 pts | Smart: 23 pts, 11 reb, 10 ast"
+8102,2019,2020-09-12T01:00:00.000Z,AdventHealth Arena,Toronto Raptors,38,Boston Celtics,2,87,92,Scott Foster,Zach Zarba,David Guthrie,,,"Tatum: 29 pts, 12 reb, 7 ast | Brown: 21 points"
+8070,2019,2020-08-31T22:30:00.000Z,The Field House,Milwaukee Bucks,21,Miami Heat,20,104,115,Rodney Mott,Derrick Collins,Eric Lewis,,,Butler: Playoff career-high 40 points | Dragic: 27 pts
+8071,2019,2020-09-02T22:30:00.000Z,The Field House,Milwaukee Bucks,21,Miami Heat,20,114,116,Michael Smith,Marc Davis,Sean Wright,,,Dragic: 23 pts | Butler: Game-winning FTs with 0.0 left
+8072,2019,2020-09-04T22:30:00.000Z,The Field House,Miami Heat,20,Milwaukee Bucks,21,115,100,Sean Corbin,Scott Foster,David Guthrie,,,Heat outscore Bucks 40-13 in 4th quarter
+8073,2019,2020-09-06T19:30:00.000Z,AdventHealth Arena,Miami Heat,20,Milwaukee Bucks,21,115,118,Tony Brothers,Zach Zarba,Gediminas Petraitis,,,"Middleton: 36 points (9 in OT), 8 rebounds, 8 assists"
+8074,2019,2020-09-08T22:30:00.000Z,The Field House,Milwaukee Bucks,21,Miami Heat,20,94,103,James Capers,Rodney Mott,Josh Tiven,,,"Butler: 17 pts, 10 reb | MIA: 1st East finals since '14"
+8077,2019,2020-09-04T01:00:00.000Z,AdventHealth Arena,LA Clippers,16,Denver Nuggets,9,120,97,Zach Zarba,Eric Lewis,Curtis Blair,,,Leonard: 29 pts (12-16 FGs) | LAC: 57.1 FG%
+8078,2019,2020-09-06T01:00:00.000Z,AdventHealth Arena,LA Clippers,16,Denver Nuggets,9,101,110,James Capers,Leon Wood,Pat Fraher,,,"Jokic: 26 points, 18 rebounds | Murray: 27 points"
+8079,2019,2020-09-08T01:00:00.000Z,AdventHealth Arena,Denver Nuggets,9,LA Clippers,16,107,113,Tony Brown,Ed Malloy,John Goble,,,"George: 32 pts (5-7 3FG) | Leonard: 23 pts, 14 reb"
+8095,2019,2020-09-10T01:00:00.000Z,AdventHealth Arena,Denver Nuggets,9,LA Clippers,16,85,96,Scott Foster,Michael Smith,Bill Kennedy,,,"Leonard: 30 pts, 11 reb, 9 ast | Jokic: 26 pts, 11 reb"
+8101,2019,2020-09-11T22:30:00.000Z,The Field House,LA Clippers,16,Denver Nuggets,9,105,111,Tony Brothers,Marc Davis,Kevin Scott,,,"Jokic: 22 points, 14 rebounds | Leonard: 36 points"
+8082,2019,2020-09-13T17:00:00.000Z,AdventHealth Arena,Denver Nuggets,9,LA Clippers,16,111,98,Josh Tiven,Kane Fitzgerald,Tre Maddox,,,"Jokic: 34 points,14 rebounds | George: 33 points"
+8083,2019,2020-09-16T01:00:00.000Z,AdventHealth Arena,LA Clippers,16,Denver Nuggets,9,89,104,James Capers,Rodney Mott,Eric Lewis,,,"Murray: 40 pts | Jokic: 16 pts, 22 reb, 13 ast"
+8084,2019,2020-09-05T01:00:00.000Z,AdventHealth Arena,Los Angeles Lakers,17,Houston Rockets,14,97,112,Sean Wright,Kane Fitzgerald,Ben Taylor,,,"Harden, Westbrook, Gordon combine for 83 points"
+8085,2019,2020-09-07T00:30:00.000Z,AdventHealth Arena,Los Angeles Lakers,17,Houston Rockets,14,117,109,Scott Foster,Michael Smith,Curtis Blair,,,"Davis: 34 pts, 10 reb | James: 28 pts, 11 reb, 9 ast"
+8086,2019,2020-09-09T01:00:00.000Z,AdventHealth Arena,Houston Rockets,14,Los Angeles Lakers,17,102,112,Marc Davis,Derrick Collins,Pat Fraher,,,"James: 36 pts, 7 reb, 4 blk | Davis: 26 pts, 15 reb"
+8091,2019,2020-09-10T23:00:00.000Z,AdventHealth Arena,Houston Rockets,14,Los Angeles Lakers,17,100,110,James Capers,Leon Wood,Courtney Kirkland,,,"Davis: 29 pts, 12 reb | Harden: 21 pts (2-11 FG)"
+8098,2019,2020-09-13T00:00:00.000Z,AdventHealth Arena,Los Angeles Lakers,17,Houston Rockets,14,119,96,Bill Kennedy,Eric Lewis,John Goble,,,Lakers: Advance to first West finals in 10 years
+8103,2019,2020-09-15T22:30:00.000Z,The Field House,Boston Celtics,2,Miami Heat,20,114,117,Sean Corbin,Marc Davis,Sean Wright,,,"Dragic: 29 points | Tatum: 30 points, 14 rebounds"
+8104,2019,2020-09-17T23:00:00.000Z,AdventHealth Arena,Boston Celtics,2,Miami Heat,20,101,106,James Capers,Tony Brown,Ed Malloy,,,"Dragic: 25 points | Adebayo: 21 points, 10 rebounds"
+8105,2019,2020-09-20T00:30:00.000Z,AdventHealth Arena,Miami Heat,20,Boston Celtics,2,106,117,Pat Fraher,Zach Zarba,Eric Lewis,,,
+8116,2019,2020-09-19T01:00:00.000Z,AdventHealth Arena,Los Angeles Lakers,17,Denver Nuggets,9,126,114,Tony Brothers,Scott Foster,Courtney Kirkland,,,"Davis: 37 points, 10 rebounds"
+8108,2019,2020-09-20T23:30:00.000Z,AdventHealth Arena,Los Angeles Lakers,17,Denver Nuggets,9,105,103,Bill Kennedy,Ed Malloy,John Goble,,,"Davis: 31 points, game-winning 3 at buzzer"
+8117,2019,2020-09-23T01:00:00.000Z,AdventHealth Arena,Denver Nuggets,9,Los Angeles Lakers,17,114,106,Marc Davis,Kane Fitzgerald,Kevin Scott,,,"Murray: 28 pts, 12 ast | Grant: 26 pts (playoff career high)"
+8118,2019,2020-09-25T01:00:00.000Z,AdventHealth Arena,Denver Nuggets,9,Los Angeles Lakers,17,108,114,James Capers,Rodney Mott,David Guthrie,,,Davis: 34 pts | Murray: 32 pts
+8111,2019,2020-09-27T01:00:00.000Z,AdventHealth Arena,Los Angeles Lakers,17,Denver Nuggets,9,117,107,Tony Brown,Zach Zarba,Eric Lewis,,,Lakers: Advance to Finals for first time since 2010
+8113,2019,2020-09-24T00:30:00.000Z,AdventHealth Arena,Miami Heat,20,Boston Celtics,2,112,109,Tony Brothers,Scott Foster,Tre Maddox,,,Herro: Career-high 37 pts (most by rookie in Conf. finals)
+8114,2019,2020-09-26T00:30:00.000Z,AdventHealth Arena,Boston Celtics,2,Miami Heat,20,121,108,John Goble,Josh Tiven,Kevin Scott,,,Tatum: 17 of 31 points in 3rd quarter
+8115,2019,2020-09-27T23:30:00.000Z,AdventHealth Arena,Miami Heat,20,Boston Celtics,2,125,113,Rodney Mott,Marc Davis,Pat Fraher,,,"Adebayo: 32 pts, 14 reb | MIA: 1st NBA Finals since 2014"
+8120,2019,2020-10-01T01:00:00.000Z,AdventHealth Arena,Los Angeles Lakers,17,Miami Heat,20,116,98,Marc Davis,Josh Tiven,Kane Fitzgerald,,,"Davis: 34 pts | James: 25 pts, 13 reb, 9 ast"
+8121,2019,2020-10-03T01:00:00.000Z,AdventHealth Arena,Los Angeles Lakers,17,Miami Heat,20,124,114,James Capers,David Guthrie,Eric Lewis,,,"Davis: 32 pts, 14 reb | James: 33 pts, 9 reb, 9 ast"
+8122,2019,2020-10-04T23:30:00.000Z,AdventHealth Arena,Miami Heat,20,Los Angeles Lakers,17,115,104,Tony Brothers,Scott Foster,Pat Fraher,,,"Butler: 40 points, 11 rebounds, 13 assists"
+8123,2019,2020-10-07T01:00:00.000Z,AdventHealth Arena,Miami Heat,20,Los Angeles Lakers,17,96,102,Tony Brown,Zach Zarba,John Goble,,,"LeBron: 28 pts, 12 reb | Caldwell-Pope: 15 pts (6-12 FG)"
+8124,2019,2020-10-10T01:00:00.000Z,AdventHealth Arena,Los Angeles Lakers,17,Miami Heat,20,108,111,Marc Davis,Eric Lewis,Kane Fitzgerald,,,"Butler: 35 pts, 12 reb, 11 ast, 5 stl | LeBron: 40 pts"
+8125,2019,2020-10-11T23:30:00.000Z,AdventHealth Arena,Miami Heat,20,Los Angeles Lakers,17,93,106,Tony Brothers,James Capers,David Guthrie,,,"LeBron: 28 pts, 14 reb, 10 ast (named Finals MVP)"
+9096,2021,2021-11-30T01:30:00.000Z,American Airlines Center,Dallas Mavericks,8,Cleveland Cavaliers,7,96,114,Marat Kogut,Brent Barnaky,Tyler Ford,4,3,
+10258,2021,2022-01-22T02:00:00.000Z,Vivint Arena,Utah Jazz,40,Detroit Pistons,10,111,101,JB DeRosa,James Williams,Brandon Adair,8,12,
+10259,2021,2022-01-22T03:00:00.000Z,Chase Center,Golden State Warriors,11,Houston Rockets,14,105,103,Michael Smith,John Goble,Evan Scott,9,9,
+10260,2021,2022-01-23T01:00:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Oklahoma City Thunder,25,94,87,Tom Washington,Ed Malloy,J.T. Orr,7,6,
+10261,2021,2022-01-23T00:00:00.000Z,Fiserv Forum,Milwaukee Bucks,21,Sacramento Kings,30,133,127,Zach Zarba,Eric Dalen,John Butler,6,1,
+10262,2021,2022-01-23T02:00:00.000Z,Footprint Center,Phoenix Suns,28,Indiana Pacers,15,113,103,James Capers,JB DeRosa,Brandon Adair,3,6,
+10263,2021,2022-01-23T18:00:00.000Z,Madison Square Garden,New York Knicks,24,LA Clippers,16,110,102,Matt Boland,Josh Tiven,Danielle Scott,0,0,
+10264,2021,2022-01-23T20:30:00.000Z,Capital One Arena,Washington Wizards,41,Boston Celtics,2,87,116,David Guthrie,Marat Kogut,Matt Myers,0,0,
+10265,2021,2022-01-23T23:00:00.000Z,FTX Arena,Miami Heat,20,Los Angeles Lakers,17,113,107,James Williams,Dedric Taylor,Phenizee Ransom,1,2,
+10266,2021,2022-01-23T23:00:00.000Z,Amway Center,Orlando Magic,26,Chicago Bulls,6,114,95,Leon Wood,Tyler Ford,Aaron Smith,3,4,
+10267,2021,2022-01-23T23:00:00.000Z,Scotiabank Arena,Toronto Raptors,38,Portland Trail Blazers,29,105,114,Brian Forte,Brent Barnaky,CJ Washington,0,0,
+10268,2021,2022-01-24T00:00:00.000Z,Spectrum Center,Charlotte Hornets,5,Atlanta Hawks,1,91,113,Sean Wright,Gediminas Petraitis,Jacyn Goble,4,1,
+10269,2021,2022-01-24T00:00:00.000Z,AT&T Center,San Antonio Spurs,31,Philadelphia 76ers,27,109,115,Ben Taylor,Ray Acosta,Brandon Schwab,0,6,
+10270,2021,2022-01-24T00:30:00.000Z,American Airlines Center,Dallas Mavericks,8,Memphis Grizzlies,19,104,91,Tony Brothers,Michael Smith,Scott Twardoski,1,0,
+10271,2021,2022-01-24T01:00:00.000Z,Target Center,Minnesota Timberwolves,22,Brooklyn Nets,4,136,125,Curtis Blair,Kevin Cutler,Jason Goldenberg,4,14,
+10272,2021,2022-01-24T01:00:00.000Z,Ball Arena,Denver Nuggets,9,Detroit Pistons,10,117,111,Derek Richardson,Eric Lewis,Andy Nagy,8,9,
+10273,2021,2022-01-24T01:30:00.000Z,Chase Center,Golden State Warriors,11,Utah Jazz,40,94,92,Bennie Adams,Pat Fraher,Karl Lane,5,7,
+10274,2021,2022-01-25T00:00:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,New York Knicks,24,95,93,Scott Wall,Curtis Blair,Justin Van Duyne,14,10,
+10275,2021,2022-03-04T00:00:00.000Z,State Farm Arena,Atlanta Hawks,1,Chicago Bulls,6,130,124,Tom Washington,Josh Tiven,Brandon Adair,9,13,
+10276,2021,2022-01-11T01:00:00.000Z,Toyota Center,Houston Rockets,14,Philadelphia 76ers,27,91,111,Marc Davis,Eric Dalen,Jenna Schroeder,2,1,
+10278,2021,2022-01-25T02:00:00.000Z,Footprint Center,Phoenix Suns,28,Utah Jazz,40,115,109,JB DeRosa,Kane Fitzgerald,Jonathan Sterling,3,14,
+10279,2021,2022-01-26T00:00:00.000Z,Little Caesars Arena,Detroit Pistons,10,Denver Nuggets,9,105,110,Leon Wood,Brent Barnaky,Mousa Dagher,2,5,
+10280,2021,2022-01-26T00:00:00.000Z,Scotiabank Arena,Toronto Raptors,38,Charlotte Hornets,5,125,113,Kevin Cutler,Dedric Taylor,Danielle Scott,3,1,
+10281,2021,2022-01-26T00:00:00.000Z,Capital One Arena,Washington Wizards,41,LA Clippers,16,115,116,Sean Wright,Ray Acosta,Natalie Sago,1,1,
+10282,2021,2022-01-26T00:30:00.000Z,TD Garden,Boston Celtics,2,Sacramento Kings,30,128,75,James Capers,Brian Forte,CJ Washington,0,0,
+10283,2021,2022-01-26T00:30:00.000Z,Barclays Center,Brooklyn Nets,4,Los Angeles Lakers,17,96,106,Tom Washington,Matt Boland,David Guthrie,4,8,
+10284,2021,2022-01-26T01:00:00.000Z,Toyota Center,Houston Rockets,14,San Antonio Spurs,31,104,134,Pat Fraher,Scott Twardoski,Gediminas Petraitis,6,8,
+10285,2021,2022-01-26T03:00:00.000Z,Chase Center,Golden State Warriors,11,Dallas Mavericks,8,130,92,Eric Lewis,Tre Maddox,Jonathan Sterling,1,3,
+10286,2021,2022-01-26T03:00:00.000Z,Moda Center,Portland Trail Blazers,29,Minnesota Timberwolves,22,107,109,JB DeRosa,Karl Lane,Matt Kallio,7,9,
+10287,2021,2022-01-27T00:00:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Milwaukee Bucks,21,115,99,Brent Barnaky,Ben Taylor,Jenna Schroeder,2,1,
+10288,2021,2022-01-27T00:00:00.000Z,Gainbridge Fieldhouse,Indiana Pacers,15,Charlotte Hornets,5,126,158,David Guthrie,Marat Kogut,Mousa Dagher,11,11,
+10289,2021,2022-01-27T00:00:00.000Z,Amway Center,Orlando Magic,26,LA Clippers,16,102,111,Mark Lindsay,Justin Van Duyne,Natalie Sago,6,7,
+10290,2021,2022-01-27T00:30:00.000Z,State Farm Arena,Atlanta Hawks,1,Sacramento Kings,30,121,104,Lauren Holtkamp,Tyler Ford,Evan Scott,1,4,
+10291,2021,2022-03-01T00:30:00.000Z,Barclays Center,Brooklyn Nets,4,Toronto Raptors,38,97,133,Curtis Blair,Matt Myers,Mitchell Ervin,2,4,
+10292,2021,2022-01-27T00:30:00.000Z,FTX Arena,Miami Heat,20,New York Knicks,24,110,96,John Goble,Gediminas Petraitis,Suyash Mehta,0,0,
+10293,2021,2022-01-27T01:30:00.000Z,AT&T Center,San Antonio Spurs,31,Memphis Grizzlies,19,110,118,Bennie Adams,Marc Davis,Curtis Blair,2,7,
+10294,2021,2022-01-29T01:00:00.000Z,Smoothie King Center,New Orleans Pelicans,23,Denver Nuggets,9,105,116,Brent Barnaky,Natalie Sago,Phenizee Ransom,6,5,
+10295,2021,2022-01-25T01:00:00.000Z,Paycom Center,Oklahoma City Thunder,25,Chicago Bulls,6,110,111,Derek Richardson,Marc Davis,Suyash Mehta,6,3,
+10296,2021,2022-01-27T03:00:00.000Z,Vivint Arena,Utah Jazz,40,Phoenix Suns,28,97,105,Eric Lewis,Jason Goldenberg,Jacyn Goble,1,1,
+10297,2021,2022-01-27T03:00:00.000Z,Moda Center,Portland Trail Blazers,29,Dallas Mavericks,8,112,132,Kane Fitzgerald,J.T. Orr,Mitchell Ervin,0,0,
+10298,2021,2022-01-28T00:30:00.000Z,Wells Fargo Center,Philadelphia 76ers,27,Los Angeles Lakers,17,105,87,James Capers,Leon Wood,Kevin Cutler,3,5,
+10299,2021,2022-01-28T03:00:00.000Z,Chase Center,Golden State Warriors,11,Minnesota Timberwolves,22,124,115,Derrick Collins,Brett Nansel,James Williams,10,7,
+10300,2021,2022-01-29T00:30:00.000Z,Spectrum Center,Charlotte Hornets,5,Los Angeles Lakers,17,117,114,Tony Brothers,Bennie Adams,Tyler Ford,1,0,
+10301,2021,2022-01-29T00:00:00.000Z,Amway Center,Orlando Magic,26,Detroit Pistons,10,119,103,Kevin Scott,Jonathan Sterling,John Butler,2,4,
+10302,2021,2022-01-29T00:30:00.000Z,State Farm Arena,Atlanta Hawks,1,Boston Celtics,2,108,92,Scott Wall,Tom Washington,Josh Tiven,5,9,
+10303,2021,2022-01-29T01:00:00.000Z,FTX Arena,Miami Heat,20,LA Clippers,16,121,114,David Guthrie,Karl Lane,Matt Myers,2,1,
+10304,2021,2022-01-29T01:00:00.000Z,Toyota Center,Houston Rockets,14,Portland Trail Blazers,29,110,125,Matt Boland,Ben Taylor,Evan Scott,1,2,
+10328,2021,2022-02-01T00:30:00.000Z,Madison Square Garden,New York Knicks,24,Sacramento Kings,30,116,96,Tony Brothers,Tre Maddox,Gediminas Petraitis,2,1,
 10596,2021,2022-03-15T23:30:00.000Z,FTX Arena,Miami Heat,20,Detroit Pistons,10,105,98,Tyler Ford,Jacyn Goble,Mousa Dagher,7,10,
 10597,2021,2022-03-16T00:00:00.000Z,Smoothie King Center,New Orleans Pelicans,23,Phoenix Suns,28,115,131,David Guthrie,Dedric Taylor,Jason Goldenberg,4,4,
 10598,2021,2022-03-16T23:00:00.000Z,Spectrum Center,Charlotte Hornets,5,Atlanta Hawks,1,116,106,Eric Lewis,Jacyn Goble,Jonathan Sterling,11,15,
@@ -1103,31 +1456,23 @@ id,season,date,arena,H_team,A_team_id,A_team,A_team_id,H_score,A_score,ref1,ref2
 10649,2021,2022-03-23T23:00:00.000Z,Spectrum Center,Charlotte Hornets,5,New York Knicks,24,106,121,Scott Wall,Marc Davis,John Conley,1,0,
 10650,2021,2022-03-23T23:00:00.000Z,Little Caesars Arena,Detroit Pistons,10,Atlanta Hawks,1,122,101,Tom Washington,Eric Lewis,Aaron Smith,7,8,
 10651,2021,2022-03-23T23:00:00.000Z,Gainbridge Fieldhouse,Indiana Pacers,15,Sacramento Kings,30,109,110,Rodney Mott,Dedric Taylor,Mousa Dagher,11,14,
-10652,2021,2022-03-23T23:30:00.000Z,TD Garden,Boston Celtics,2,Utah Jazz,40,125,97,Bennie Adams,Zach Zarba,Kevin Cutler,0,3,
 10653,2021,2022-03-23T23:30:00.000Z,FTX Arena,Miami Heat,20,Golden State Warriors,11,104,118,David Guthrie,CJ Washington,Mitchell Ervin,7,9,
 10654,2021,2022-03-23T23:30:00.000Z,FedExForum,Memphis Grizzlies,19,Brooklyn Nets,4,132,120,James Capers,Scott Twardoski,Tyler Ford,6,12,
 10655,2021,2022-03-24T00:00:00.000Z,Target Center,Minnesota Timberwolves,22,Phoenix Suns,28,116,125,Marat Kogut,Karl Lane,James Williams,5,1,
 10656,2021,2022-03-24T00:00:00.000Z,Paycom Center,Oklahoma City Thunder,25,Orlando Magic,26,118,102,Pat Fraher,Gediminas Petraitis,Brandon Schwab,2,1,
-10657,2021,2022-03-24T00:30:00.000Z,American Airlines Center,Dallas Mavericks,8,Houston Rockets,14,110,91,Nick Buchert,Tre Maddox,Nate Green,6,13,
-10658,2021,2022-03-24T02:00:00.000Z,Crypto.com Arena,Los Angeles Lakers,17,Philadelphia 76ers,27,121,126,Sean Wright,Brent Barnaky,Ray Acosta,6,4,
 10659,2021,2022-03-24T02:00:00.000Z,Moda Center,Portland Trail Blazers,29,San Antonio Spurs,31,96,133,Eric Dalen,Josh Tiven,John Butler,2,1,
 10660,2021,2022-03-24T23:30:00.000Z,Scotiabank Arena,Toronto Raptors,38,Cleveland Cavaliers,7,117,104,Tony Brothers,Michael Smith,J.T. Orr,2,1,
-10661,2021,2022-03-25T00:00:00.000Z,FedExForum,Memphis Grizzlies,19,Indiana Pacers,15,133,103,Leon Wood,Ben Taylor,Jason Goldenberg,0,0,
 10662,2021,2022-03-25T00:00:00.000Z,Fiserv Forum,Milwaukee Bucks,21,Washington Wizards,41,114,102,Derek Richardson,Kane Fitzgerald,Lauren Holtkamp,0,0,
 10663,2021,2022-03-25T00:00:00.000Z,Smoothie King Center,New Orleans Pelicans,23,Chicago Bulls,6,126,109,Bill Kennedy,Nate Green,Natalie Sago,12,17,
 10664,2021,2022-03-25T01:00:00.000Z,Ball Arena,Denver Nuggets,9,Phoenix Suns,28,130,140,Derrick Collins,Courtney Kirkland,Justin Van Duyne,13,15,
 10665,2021,2022-03-25T23:00:00.000Z,Spectrum Center,Charlotte Hornets,5,Utah Jazz,40,107,101,James Capers,Curtis Blair,Scott Twardoski,7,17,
 10666,2021,2022-03-25T23:00:00.000Z,Little Caesars Arena,Detroit Pistons,10,Washington Wizards,41,97,100,Tony Brothers,J.T. Orr,Evan Scott,7,8,
 10667,2021,2022-03-25T23:30:00.000Z,State Farm Arena,Atlanta Hawks,1,Golden State Warriors,11,121,110,Bennie Adams,Marc Davis,Tyler Ford,2,2,
-10668,2021,2022-03-26T00:00:00.000Z,FTX Arena,Miami Heat,20,New York Knicks,24,103,111,Rodney Mott,Dedric Taylor,Phenizee Ransom,4,7,
-10669,2021,2022-03-26T00:00:00.000Z,Target Center,Minnesota Timberwolves,22,Dallas Mavericks,8,116,95,Scott Foster,Mark Lindsay,Andy Nagy,2,8,
 10670,2021,2022-03-26T02:00:00.000Z,Moda Center,Portland Trail Blazers,29,Houston Rockets,14,106,125,Sean Wright,Brent Barnaky,Ray Acosta,0,0,
 10671,2021,2022-03-26T02:30:00.000Z,Crypto.com Arena,LA Clippers,16,Philadelphia 76ers,27,97,122,JB DeRosa,Eric Dalen,Josh Tiven,1,1,
 10672,2021,2022-03-26T21:00:00.000Z,Smoothie King Center,New Orleans Pelicans,23,San Antonio Spurs,31,103,107,Kevin Scott,CJ Washington,Mitchell Ervin,14,24,
 10673,2021,2022-03-26T23:00:00.000Z,Amway Center,Orlando Magic,26,Sacramento Kings,30,110,114,Scott Wall,John Goble,Aaron Smith,8,14,
 10674,2021,2022-03-26T23:30:00.000Z,Scotiabank Arena,Toronto Raptors,38,Indiana Pacers,15,131,91,Tom Washington,Zach Zarba,Lauren Holtkamp,3,2,
-10675,2021,2022-03-27T00:00:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Chicago Bulls,6,94,98,Marc Davis,Jacyn Goble,Jenna Schroeder,1,3,
-10676,2021,2022-03-27T00:00:00.000Z,FTX Arena,Miami Heat,20,Brooklyn Nets,4,95,110,Michael Smith,Bill Kennedy,Matt Boland,1,4,
 10677,2021,2022-03-27T00:00:00.000Z,FedExForum,Memphis Grizzlies,19,Milwaukee Bucks,21,127,102,Eric Lewis,Karl Lane,John Conley,4,8,
 10678,2021,2022-03-27T01:00:00.000Z,Ball Arena,Denver Nuggets,9,Oklahoma City Thunder,25,113,107,Kevin Cutler,Brett Nansel,James Williams,7,4,
 10679,2021,2022-03-27T02:00:00.000Z,Moda Center,Portland Trail Blazers,29,Houston Rockets,14,98,115,JB DeRosa,Courtney Kirkland,Danielle Scott,7,17,
@@ -1141,37 +1486,46 @@ id,season,date,arena,H_team,A_team_id,A_team,A_team_id,H_score,A_score,ref1,ref2
 10687,2021,2022-03-28T23:00:00.000Z,Spectrum Center,Charlotte Hornets,5,Denver Nuggets,9,109,113,Bill Kennedy,Mark Lindsay,Lauren Holtkamp,6,10,
 10688,2021,2022-03-28T23:00:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Orlando Magic,26,107,101,Nick Buchert,Ben Taylor,CJ Washington,8,14,
 10689,2021,2022-03-28T23:00:00.000Z,Gainbridge Fieldhouse,Indiana Pacers,15,Atlanta Hawks,1,123,132,Scott Wall,Ed Malloy,John Conley,2,3,
-10690,2021,2022-03-28T23:30:00.000Z,FTX Arena,Miami Heat,20,Sacramento Kings,30,123,100,Brent Barnaky,Kevin Scott,Ray Acosta,2,1,
 10691,2021,2022-03-28T23:30:00.000Z,Madison Square Garden,New York Knicks,24,Chicago Bulls,6,109,104,Pat Fraher,Brian Forte,Mousa Dagher,1,3,
 10692,2021,2022-03-28T23:30:00.000Z,Scotiabank Arena,Toronto Raptors,38,Boston Celtics,2,115,112,David Guthrie,Mitchell Ervin,Evan Scott,9,15,
-10693,2021,2022-03-29T00:00:00.000Z,Toyota Center,Houston Rockets,14,San Antonio Spurs,31,120,123,James Williams,Aaron Smith,Natalie Sago,1,1,
 10694,2021,2022-03-29T00:00:00.000Z,FedExForum,Memphis Grizzlies,19,Golden State Warriors,11,123,95,JB DeRosa,Courtney Kirkland,Brett Nansel,2,3,
 10695,2021,2022-03-29T02:00:00.000Z,Moda Center,Portland Trail Blazers,29,Oklahoma City Thunder,25,131,134,Leon Wood,Derek Richardson,Eric Lewis,6,17,
 10696,2021,2022-03-29T23:00:00.000Z,Wells Fargo Center,Philadelphia 76ers,27,Milwaukee Bucks,21,116,118,James Capers,Mitchell Ervin,Brandon Adair,2,13,
-10697,2021,2022-03-29T23:00:00.000Z,Capital One Arena,Washington Wizards,41,Chicago Bulls,6,94,107,Michael Smith,John Goble,Phenizee Ransom,7,10,
 10698,2021,2022-03-29T23:30:00.000Z,Barclays Center,Brooklyn Nets,4,Detroit Pistons,10,130,123,David Guthrie,Marat Kogut,Tre Maddox,5,11,
 10699,2021,2022-03-29T23:30:00.000Z,American Airlines Center,Dallas Mavericks,8,Los Angeles Lakers,17,128,110,Marc Davis,Dedric Taylor,Natalie Sago,0,0,
 10700,2021,2022-03-30T02:00:00.000Z,Crypto.com Arena,LA Clippers,16,Utah Jazz,40,121,115,Scott Foster,Jason Goldenberg,Jacyn Goble,0,5,
 10701,2021,2022-03-30T23:00:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Dallas Mavericks,8,112,120,Eric Dalen,Josh Tiven,Brett Nansel,7,10,
 10702,2021,2022-03-30T23:00:00.000Z,Gainbridge Fieldhouse,Indiana Pacers,15,Denver Nuggets,9,118,125,Tony Brothers,Brian Forte,Jonathan Sterling,5,10,
 10703,2021,2022-03-30T23:00:00.000Z,Capital One Arena,Washington Wizards,41,Orlando Magic,26,127,110,Tom Washington,Matt Boland,Sean Wright,7,10,
-10704,2021,2022-03-30T23:30:00.000Z,TD Garden,Boston Celtics,2,Miami Heat,20,98,106,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,9,16,
 10705,2021,2022-03-30T23:30:00.000Z,Madison Square Garden,New York Knicks,24,Charlotte Hornets,5,114,125,Zach Zarba,Kevin Cutler,John Butler,9,4,
 10706,2021,2022-03-30T23:30:00.000Z,Scotiabank Arena,Toronto Raptors,38,Minnesota Timberwolves,22,125,102,JB DeRosa,Bill Kennedy,Aaron Smith,5,5,
 10707,2021,2022-03-31T00:00:00.000Z,Toyota Center,Houston Rockets,14,Sacramento Kings,30,118,121,Curtis Blair,Mark Lindsay,Mousa Dagher,5,9,
 10708,2021,2022-03-31T00:00:00.000Z,Paycom Center,Oklahoma City Thunder,25,Atlanta Hawks,1,118,136,Ben Taylor,Matt Myers,Gediminas Petraitis,0,0,
 10709,2021,2022-03-31T00:30:00.000Z,AT&T Center,San Antonio Spurs,31,Memphis Grizzlies,19,111,112,Scott Wall,Nick Buchert,Kevin Scott,1,0,
 10710,2021,2022-03-31T02:00:00.000Z,Chase Center,Golden State Warriors,11,Phoenix Suns,28,103,107,Leon Wood,Eric Lewis,Jacyn Goble,21,20,
-10711,2021,2022-03-31T02:00:00.000Z,Moda Center,Portland Trail Blazers,29,New Orleans Pelicans,23,107,117,Rodney Mott,Karl Lane,Jenna Schroeder,12,12,
 10712,2021,2022-03-31T23:00:00.000Z,Little Caesars Arena,Detroit Pistons,10,Philadelphia 76ers,27,102,94,Josh Tiven,Lauren Holtkamp,Danielle Scott,5,3,
 10713,2021,2022-03-31T23:30:00.000Z,Barclays Center,Brooklyn Nets,4,Milwaukee Bucks,21,119,120,Derek Richardson,John Goble,Brent Barnaky,7,13,
 10714,2021,2022-04-01T00:00:00.000Z,United Center,Chicago Bulls,6,LA Clippers,16,135,130,James Williams,Dedric Taylor,Gediminas Petraitis,2,5,
 10715,2021,2022-04-01T02:00:00.000Z,Vivint Arena,Utah Jazz,40,Los Angeles Lakers,17,122,109,Eric Lewis,Karl Lane,Evan Scott,1,0,
 10716,2021,2022-04-01T23:00:00.000Z,Amway Center,Orlando Magic,26,Toronto Raptors,38,89,102,Curtis Blair,Nate Green,Brandon Adair,4,2,
 10717,2021,2022-04-01T23:00:00.000Z,Capital One Arena,Washington Wizards,41,Dallas Mavericks,8,135,103,Tony Brothers,Justin Van Duyne,Jason Goldenberg,0,0,
-10718,2021,2022-04-01T23:30:00.000Z,TD Garden,Boston Celtics,2,Indiana Pacers,15,128,123,Bill Kennedy,Eric Dalen,Brett Nansel,2,0,
 10719,2021,2022-04-02T00:00:00.000Z,Toyota Center,Houston Rockets,14,Sacramento Kings,30,117,122,Michael Smith,Marat Kogut,Tyler Ford,4,8,
 10720,2021,2022-04-02T00:00:00.000Z,FedExForum,Memphis Grizzlies,19,Phoenix Suns,28,122,114,Tom Washington,Zach Zarba,Natalie Sago,7,6,
+10277,2021,2022-01-25T01:00:00.000Z,Smoothie King Center,New Orleans Pelicans,23,Indiana Pacers,15,117,113,John Goble,Lauren Holtkamp,Tyler Ford,10,12,
+10652,2021,2022-03-23T23:30:00.000Z,TD Garden,Boston Celtics,2,Utah Jazz,40,125,97,Bennie Adams,Zach Zarba,Kevin Cutler,0,3,
+10657,2021,2022-03-24T00:30:00.000Z,American Airlines Center,Dallas Mavericks,8,Houston Rockets,14,110,91,Nick Buchert,Tre Maddox,Nate Green,6,13,
+10658,2021,2022-03-24T02:00:00.000Z,Crypto.com Arena,Los Angeles Lakers,17,Philadelphia 76ers,27,121,126,Sean Wright,Brent Barnaky,Ray Acosta,6,4,
+10661,2021,2022-03-25T00:00:00.000Z,FedExForum,Memphis Grizzlies,19,Indiana Pacers,15,133,103,Leon Wood,Ben Taylor,Jason Goldenberg,0,0,
+10668,2021,2022-03-26T00:00:00.000Z,FTX Arena,Miami Heat,20,New York Knicks,24,103,111,Rodney Mott,Dedric Taylor,Phenizee Ransom,4,7,
+10669,2021,2022-03-26T00:00:00.000Z,Target Center,Minnesota Timberwolves,22,Dallas Mavericks,8,116,95,Scott Foster,Mark Lindsay,Andy Nagy,2,8,
+10675,2021,2022-03-27T00:00:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Chicago Bulls,6,94,98,Marc Davis,Jacyn Goble,Jenna Schroeder,1,3,
+10676,2021,2022-03-27T00:00:00.000Z,FTX Arena,Miami Heat,20,Brooklyn Nets,4,95,110,Michael Smith,Bill Kennedy,Matt Boland,1,4,
+10690,2021,2022-03-28T23:30:00.000Z,FTX Arena,Miami Heat,20,Sacramento Kings,30,123,100,Brent Barnaky,Kevin Scott,Ray Acosta,2,1,
+10693,2021,2022-03-29T00:00:00.000Z,Toyota Center,Houston Rockets,14,San Antonio Spurs,31,120,123,James Williams,Aaron Smith,Natalie Sago,1,1,
+10697,2021,2022-03-29T23:00:00.000Z,Capital One Arena,Washington Wizards,41,Chicago Bulls,6,94,107,Michael Smith,John Goble,Phenizee Ransom,7,10,
+10704,2021,2022-03-30T23:30:00.000Z,TD Garden,Boston Celtics,2,Miami Heat,20,98,106,Ed Malloy,Kane Fitzgerald,Justin Van Duyne,9,16,
+10711,2021,2022-03-31T02:00:00.000Z,Moda Center,Portland Trail Blazers,29,New Orleans Pelicans,23,107,117,Rodney Mott,Karl Lane,Jenna Schroeder,12,12,
+10718,2021,2022-04-01T23:30:00.000Z,TD Garden,Boston Celtics,2,Indiana Pacers,15,128,123,Bill Kennedy,Eric Dalen,Brett Nansel,2,0,
 10721,2021,2022-04-02T00:00:00.000Z,Fiserv Forum,Milwaukee Bucks,21,LA Clippers,16,119,153,Bennie Adams,Derrick Collins,Sean Wright,2,7,
 10722,2021,2022-04-02T00:00:00.000Z,Paycom Center,Oklahoma City Thunder,25,Detroit Pistons,10,101,110,Nick Buchert,Kevin Scott,Scott Twardoski,6,9,
 10723,2021,2022-04-02T00:30:00.000Z,AT&T Center,San Antonio Spurs,31,Portland Trail Blazers,29,130,111,Ben Taylor,Matt Myers,Mitchell Ervin,0,3,
@@ -1256,81 +1610,3 @@ id,season,date,arena,H_team,A_team_id,A_team,A_team_id,H_score,A_score,ref1,ref2
 10802,2021,2021-10-05T00:30:00.000Z,AT&T Center,San Antonio Spurs,31,Utah Jazz,40,111,85,Scott Wall,Kevin Cutler,CJ Washington,,,
 10803,2021,2021-10-05T02:00:00.000Z,Moda Center,Portland Trail Blazers,29,Golden State Warriors,11,107,121,Curtis Blair,Brent Barnaky,Robert Hussey,,,
 10804,2021,2021-10-05T02:00:00.000Z,Golden 1 Center,Sacramento Kings,30,Phoenix Suns,28,117,106,Brian Forte,Eric Dalen,Suyash Mehta,,,
-10805,2021,2021-10-05T02:30:00.000Z,STAPLES Center,LA Clippers,16,Denver Nuggets,9,103,102,Justin Van Duyne,Tyler Ford,John Butler,,,
-10806,2021,2021-10-05T23:30:00.000Z,Madison Square Garden,New York Knicks,24,Indiana Pacers,15,125,104,Zach Zarba,John Conley,J.D. Ralls,,,
-10807,2021,2021-10-06T00:00:00.000Z,United Center,Chicago Bulls,6,Cleveland Cavaliers,7,131,95,Marc Davis,Jacyn Goble,Cheryl Flores,,,
-10808,2021,2021-10-06T00:00:00.000Z,Toyota Center,Houston Rockets,14,Washington Wizards,41,125,119,Eric Lewis,Mitchell Ervin,Jenna Reneau,,,
-10809,2021,2021-10-06T00:00:00.000Z,FedExForum,Memphis Grizzlies,19,Milwaukee Bucks,21,87,77,Michael Smith,Kevin Scott,Matt Kallio,,,
-10810,2021,2021-10-06T23:00:00.000Z,Little Caesars Arena,Detroit Pistons,10,San Antonio Spurs,31,115,105,Ed Malloy,Lauren Holtkamp,Dannica Mosher,,,
-10811,2021,2021-10-06T23:30:00.000Z,State Farm Arena,Atlanta Hawks,1,Cleveland Cavaliers,7,96,99,Sean Wright,Brian Forte,Tyler Ricks,,,
-10812,2021,2021-10-07T00:00:00.000Z,Smoothie King Center,New Orleans Pelicans,23,Orlando Magic,26,104,86,Karl Lane,J.T. Orr,Simone Jelks,,,
-10813,2021,2021-10-07T00:30:00.000Z,American Airlines Center,Dallas Mavericks,8,Utah Jazz,40,111,101,JB DeRosa,Tyler Ford,Jonathan Sterling,,,
-10814,2021,2021-10-07T02:00:00.000Z,Chase Center,Golden State Warriors,11,Denver Nuggets,9,118,116,Kevin Cutler,Brent Barnaky,Suyash Mehta,,,
-10815,2021,2021-10-06T22:00:00.000Z,Footprint Center,Phoenix Suns,28,Los Angeles Lakers,17,117,105,Leon Wood,Curtis Blair,Mousa Dagher,,,
-10816,2021,2021-10-07T02:30:00.000Z,STAPLES Center,LA Clippers,16,Sacramento Kings,30,98,113,Rodney Mott,Scott Twardoski,Robert Hussey,,,
-10817,2021,2021-10-07T23:00:00.000Z,Spectrum Center,Charlotte Hornets,5,Memphis Grizzlies,19,98,128,David Guthrie,Matt Myers,Dedric Taylor,,,
-10818,2021,2021-10-07T23:00:00.000Z,Wells Fargo Center,Philadelphia 76ers,27,Toronto Raptors,38,125,113,Mark Lindsay,Ray Acosta,Evan Scott,,,
-10819,2021,2021-10-08T02:00:00.000Z,Toyota Center,Houston Rockets,14,Miami Heat,20,106,113,Derrick Collins,Gediminas Petraitis,Phenizee Ransom,,,
-10820,2021,2021-10-08T23:00:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Indiana Pacers,15,100,109,James Williams,Brandon Adair,Dannica Mosher,,,
-10821,2021,2021-10-08T23:30:00.000Z,Barclays Center,Brooklyn Nets,4,Milwaukee Bucks,21,119,115,Josh Tiven,Lauren Holtkamp,Jamahl Ralls,,,
-10822,2021,2021-10-09T00:00:00.000Z,United Center,Chicago Bulls,6,New Orleans Pelicans,23,121,85,James Capers,Nick Buchert,Blanca Burns,,,
-10823,2021,2021-10-09T00:30:00.000Z,American Airlines Center,Dallas Mavericks,8,LA Clippers,16,122,114,Scott Wall,Kevin Scott,Matt Kallio,,,
-10824,2021,2021-10-09T00:30:00.000Z,AT&T Center,San Antonio Spurs,31,Miami Heat,20,105,109,Derek Richardson,Sean Wright,Jonathan Sterling,,,
-10825,2021,2021-10-09T01:00:00.000Z,Ball Arena,Denver Nuggets,9,Minnesota Timberwolves,22,112,114,Ed Malloy,Brent Barnaky,Robert Hussey,,,
-10826,2021,2021-10-09T02:00:00.000Z,Chase Center,Golden State Warriors,11,Los Angeles Lakers,17,121,114,Tom Washington,Justin Van Duyne,John Conley,,,
-10827,2021,2021-10-09T23:00:00.000Z,TD Garden,Boston Celtics,2,Toronto Raptors,38,113,111,Eric Lewis,Aaron Smith,Evan Scott,,,
-10828,2021,2021-10-09T23:00:00.000Z,Capital One Arena,Washington Wizards,41,New York Knicks,24,99,117,Scott Foster,Gediminas Petraitis,Jenna Schroeder,,,
-10829,2021,2021-10-10T00:00:00.000Z,FedExForum,Memphis Grizzlies,19,Atlanta Hawks,1,87,91,Michael Smith,Pat Fraher,Danielle Scott,,,
-10830,2021,2021-10-10T22:00:00.000Z,Amway Center,Orlando Magic,26,San Antonio Spurs,31,100,101,Kane Fitzgerald,Dedric Taylor,Jenna Reneau,,,
-10831,2021,2021-10-10T23:00:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Chicago Bulls,6,101,102,JB DeRosa,Karl Lane,Brandon Adair,,,
-10832,2021,2021-10-10T23:30:00.000Z,Fiserv Forum,Milwaukee Bucks,21,Oklahoma City Thunder,25,130,110,James Capers,Brett Nansel,Matt Myers,,,
-10833,2021,2021-10-11T02:00:00.000Z,STAPLES Center,Los Angeles Lakers,17,Phoenix Suns,28,94,123,Matt Boland,Sean Wright,Nate Green,,,
-10834,2021,2021-10-11T23:00:00.000Z,Scotiabank Arena,Toronto Raptors,38,Houston Rockets,14,107,92,James Williams,Suyash Mehta,Natalie Sago,,,
-10835,2021,2021-10-11T23:30:00.000Z,FTX Arena,Miami Heat,20,Charlotte Hornets,5,104,103,Marat Kogut,Ben Taylor,Evan Scott,,,
-10836,2021,2021-10-12T00:00:00.000Z,Wells Fargo Center,Philadelphia 76ers,27,Brooklyn Nets,4,115,104,Ed Malloy,Aaron Smith,Simone Jelks,,,
-10837,2021,2021-10-12T00:00:00.000Z,FedExForum,Memphis Grizzlies,19,Detroit Pistons,10,127,92,Derrick Collins,CJ Washington,Mitchell Ervin,,,
-10838,2021,2021-10-12T01:00:00.000Z,Vivint Arena,Utah Jazz,40,New Orleans Pelicans,23,127,96,Sean Corbin,J.T. Orr,Andy Nagy,,,
-10839,2021,2021-10-12T02:00:00.000Z,Moda Center,Portland Trail Blazers,29,Sacramento Kings,30,93,107,Derek Richardson,Mark Lindsay,John Butler,,,
-10840,2021,2021-10-12T02:30:00.000Z,Toyota Arena,LA Clippers,16,Minnesota Timberwolves,22,100,128,Tony Brothers,Leon Wood,John Conley,,,
-10841,2021,2021-10-12T23:00:00.000Z,Capital One Arena,Washington Wizards,41,Toronto Raptors,38,108,113,Curtis Blair,Brandon Adair,Dannica Mosher,,,
-10842,2021,2021-10-13T02:30:00.000Z,STAPLES Center,Los Angeles Lakers,17,Golden State Warriors,11,99,111,Matt Boland,Tre Maddox,Nate Green,,,
-10843,2021,2021-10-13T22:30:00.000Z,Spectrum Center,Charlotte Hornets,5,Dallas Mavericks,8,59,127,Scott Foster,Brett Nansel,Cheryl Flores,,,
-10844,2021,2021-10-13T23:00:00.000Z,Gainbridge Fieldhouse,Indiana Pacers,15,Memphis Grizzlies,19,109,107,Eric Dalen,Tyler Ford,Andy Nagy,,,
-10845,2021,2021-10-13T23:00:00.000Z,Amway Center,Orlando Magic,26,Boston Celtics,2,103,102,Brent Barnaky,Ben Taylor,Brent Haskill,,,
-10846,2021,2021-10-13T23:30:00.000Z,Madison Square Garden,New York Knicks,24,Detroit Pistons,10,108,100,Michael Smith,Brian Forte,Matt Myers,,,
-10847,2021,2021-10-14T00:00:00.000Z,Paycom Center,Oklahoma City Thunder,25,Denver Nuggets,9,108,99,Mark Lindsay,J.T. Orr,Phenizee Ransom,,,
-10848,2021,2021-10-14T01:00:00.000Z,Vivint Arena,Utah Jazz,40,Milwaukee Bucks,21,124,120,Tony Brothers,Natalie Sago,Brandon Schwab,,,
-10849,2021,2021-10-13T21:00:00.000Z,Footprint Center,Phoenix Suns,28,Portland Trail Blazers,29,119,74,Kevin Cutler,Scott Twardoski,Justin Van Duyne,,,
-10850,2021,2021-10-14T23:00:00.000Z,State Farm Arena,Atlanta Hawks,1,Miami Heat,20,127,92,Courtney Kirkland,Lauren Holtkamp,Simone Jelks,,,
-10851,2021,2021-10-14T23:30:00.000Z,Barclays Center,Brooklyn Nets,4,Minnesota Timberwolves,22,107,101,Scott Wall,Zach Zarba,Jenna Reneau,,,
-10852,2021,2021-10-15T00:00:00.000Z,BOK Center,Oklahoma City Thunder,25,Denver Nuggets,9,107,113,Sean Corbin,Mitchell Ervin,Blanca Burns,,,
-10853,2021,2021-10-15T02:00:00.000Z,Golden 1 Center,Sacramento Kings,30,Los Angeles Lakers,17,116,112,Rodney Mott,Leon Wood,John Butler,,,
-10854,2021,2021-10-15T22:30:00.000Z,FTX Arena,Miami Heat,20,Boston Celtics,2,121,100,David Guthrie,Jacyn Goble,Brent Haskill,,,
-10855,2021,2021-10-15T23:00:00.000Z,Little Caesars Arena,Detroit Pistons,10,Philadelphia 76ers,27,112,108,Pat Fraher,Eric Dalen,Brett Nansel,,,
-10856,2021,2021-10-15T23:00:00.000Z,Gainbridge Fieldhouse,Indiana Pacers,15,Cleveland Cavaliers,7,94,110,Nick Buchert,Kevin Scott,Jamahl Ralls,,,
-10857,2021,2021-10-15T23:30:00.000Z,Madison Square Garden,New York Knicks,24,Washington Wizards,41,115,113,Eric Lewis,Marat Kogut,Danielle Scott,,,
-10858,2021,2021-10-16T00:00:00.000Z,United Center,Chicago Bulls,6,Memphis Grizzlies,19,118,105,Scott Twardoski,James Williams,Matt Kallio,,,
-10859,2021,2021-10-16T00:00:00.000Z,Fiserv Forum,Milwaukee Bucks,21,Dallas Mavericks,8,103,114,Marc Davis,Natalie Sago,Jenna Schroeder,,,
-10860,2021,2021-10-16T00:30:00.000Z,AT&T Center,San Antonio Spurs,31,Houston Rockets,14,126,98,Tre Maddox,Cheryl Flores,Ray Acosta,,,
-10861,2021,2021-10-16T02:00:00.000Z,Chase Center,Golden State Warriors,11,Portland Trail Blazers,29,119,97,Derek Richardson,Derrick Collins,Brandon Schwab,,,
-10865,2021,2022-02-21T01:00:00.000Z,Rocket Mortgage FieldHouse,Team LeBron,35,Team Team Durant,34,163,160,Brian Forte,Kane Fitzgerald,James Williams,,,
-10866,2021,2022-04-13T01:30:00.000Z,Target Center,Minnesota Timberwolves,22,LA Clippers,16,109,104,Scott Foster,Tom Washington,Ed Malloy,9,8,
-10867,2021,2022-04-13T23:00:00.000Z,State Farm Arena,Atlanta Hawks,1,Charlotte Hornets,5,132,103,James Capers,James Williams,Jacyn Goble,2,1,
-10868,2021,2022-04-14T01:30:00.000Z,Smoothie King Center,New Orleans Pelicans,23,San Antonio Spurs,31,113,103,Bill Kennedy,David Guthrie,Sean Wright,2,2,
-10869,2021,2022-04-12T23:00:00.000Z,Barclays Center,Brooklyn Nets,4,Cleveland Cavaliers,7,115,108,JB DeRosa,Curtis Blair,Kane Fitzgerald,0,0,
-10870,2021,2022-04-16T17:00:00.000Z,American Airlines Center,Dallas Mavericks,8,Utah Jazz,40,93,99,James Capers,Pat Fraher,Scott Twardoski,6,5,
-10871,2021,2022-04-16T22:00:00.000Z,Wells Fargo Center,Philadelphia 76ers,27,Toronto Raptors,38,131,111,Bill Kennedy,Derrick Collins,Kane Fitzgerald,0,3,
-10872,2021,2022-04-17T00:30:00.000Z,Chase Center,Golden State Warriors,11,Denver Nuggets,9,123,107,Scott Foster,Ed Malloy,Kevin Cutler,6,9,
-10873,2021,2022-04-17T22:30:00.000Z,Fiserv Forum,Milwaukee Bucks,21,Chicago Bulls,6,93,86,Tony Brothers,Michael Smith,John Goble,2,4,
-10874,2021,2022-04-17T19:30:00.000Z,TD Garden,Boston Celtics,2,Brooklyn Nets,4,115,114,Rodney Mott,Zach Zarba,James Williams,12,20,
-10875,2021,2022-04-16T19:30:00.000Z,FedExForum,Memphis Grizzlies,19,Minnesota Timberwolves,22,117,130,Tom Washington,David Guthrie,Sean Wright,4,2,
-10876,2021,2022-04-18T23:30:00.000Z,Wells Fargo Center,Philadelphia 76ers,27,Toronto Raptors,38,112,97,James Capers,JB DeRosa,Mark Lindsay,8,7,
-10877,2021,2022-04-19T00:30:00.000Z,American Airlines Center,Dallas Mavericks,8,Utah Jazz,40,110,104,Courtney Kirkland,Ed Malloy,David Guthrie,6,13,
-10878,2021,2022-04-19T02:00:00.000Z,Chase Center,Golden State Warriors,11,Denver Nuggets,9,126,106,Curtis Blair,Kevin Cutler,Brent Barnaky,1,1,
-10879,2021,2022-04-20T00:30:00.000Z,FedExForum,Memphis Grizzlies,19,Minnesota Timberwolves,22,124,96,Zach Zarba,James Williams,Mitchell Ervin,7,11,
-10912,2021,2022-04-15T23:30:00.000Z,Rocket Mortgage FieldHouse,Cleveland Cavaliers,7,Atlanta Hawks,1,101,107,Zach Zarba,Eric Lewis,Tre Maddox,3,5,
-10913,2021,2022-04-16T02:00:00.000Z,Crypto.com Arena,LA Clippers,16,New Orleans Pelicans,23,101,105,Marc Davis,Brian Forte,Mark Lindsay,7,3,
-10914,2021,2022-04-17T17:00:00.000Z,FTX Arena,Miami Heat,20,Atlanta Hawks,1,115,91,Marc Davis,Eric Dalen,Josh Tiven,3,1,
-10915,2021,2022-04-19T23:30:00.000Z,FTX Arena,Miami Heat,20,Atlanta Hawks,1,115,105,John Goble,Eric Dalen,Nick Buchert,11,13,
-10918,2021,2022-04-18T01:00:00.000Z,Footprint Center,Phoenix Suns,28,New Orleans Pelicans,23,110,99,Eric Lewis,Brent Barnaky,Ben Taylor,0,0,
-10919,2021,2022-04-20T02:00:00.000Z,Footprint Center,Phoenix Suns,28,New Orleans Pelicans,23,114,125,Tony Brothers,Scott Foster,Leon Wood,8,20,
