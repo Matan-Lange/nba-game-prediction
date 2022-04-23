@@ -5,9 +5,7 @@ import json
 import pandas as pd
 import time
 
-
-load_dotenv(".env")
-
+load_dotenv("../.env")
 
 
 class NbaApi:
@@ -25,7 +23,6 @@ class NbaApi:
         response = requests.request("GET", self.url + endpoint, headers=self.credentials, params=params)
 
         return response
-
 
 if __name__ == "__main__":
 
@@ -135,4 +132,5 @@ if __name__ == "__main__":
 
     player_stats.to_csv('player_stats.csv',index=False)
     print('done')
+
 
