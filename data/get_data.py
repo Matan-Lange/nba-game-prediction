@@ -95,7 +95,7 @@ if __name__ == "__main__":
         except Exception as e:
             print(e)
 
-    games_stats.to_csv('games_stats.csv', index=False)
+    games_stats.to_csv('games_stats2022-05-13.csv', index=False)
 
 
     player_stats = pd.DataFrame()
