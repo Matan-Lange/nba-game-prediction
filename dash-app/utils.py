@@ -1,5 +1,5 @@
 import pandas as pd
-from data.get_data import NbaApi
+from train_model.get_data import NbaApi
 import datetime as dt
 from datetime import timedelta
 import json

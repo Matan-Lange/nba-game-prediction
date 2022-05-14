@@ -23,7 +23,7 @@ header = dbc.Row([
     ])
 ], id='header')
 
-div1 = html.Div([], id='div1')
+div1 = html.H2([], id='H2',style = {'margin-top':'20px','text-align':'center'})
 
 new_games = get_weekly_games()
 table = dash_table.DataTable(new_games.to_dict('records'),
@@ -37,7 +37,7 @@ app.layout = dbc.Container([header, table, div1], fluid=True)
 
 
 @app.callback(
-    Output('div1', "children"),
+    Output('H2', "children"),
     Input('datatable-interactivity', "derived_virtual_selected_rows"))
 def update_graphs(row):
     from utils import model_input
@@ -47,10 +47,17 @@ def update_graphs(row):
         row_data = dict(new_games.iloc[row_num])
         h_team_id = row_data['h_team_id']
         a_team_id = row_data['a_team_id']
+
+        h_team_name = row_data['h_team_name']
+        a_team_name = row_data['a_team_name']
         model_input = model_input(h_team_id, a_team_id, games=games, games_stats=games_stats)
         y_pred = model.predict([model_input])
         print(y_pred)
-        return '0'
+
+        if y_pred[0] ==1:
+            return f'Model predicts the the wining team will be - {h_team_name}'
+        else:
+            return f'Model predicts the the wining team will be - {a_team_name}'
     else:
         return 0
 
