@@ -116,7 +116,6 @@ def create_elo_rating(df):
     return elo_df
 
 
-
 # create target varible - home win = 1 , away win = 0
 
 def game_result(h_score, a_score):
@@ -125,33 +124,33 @@ def game_result(h_score, a_score):
     else:
         return 0
 
+
 def game_true_result(team_id, h_team_id, result):
     if team_id == h_team_id:
         return result
     elif result == 0:
         return 1
-    else: return 0
-
-
+    else:
+        return 0
 
 
 def win_perc(games_stats):
-    games_stats.sort_values(by = ['season','team_id','date'], ascending = True, inplace = True)
+    games_stats.sort_values(by=['season', 'team_id', 'date'], ascending=True, inplace=True)
     team_stats_groupby = games_stats.groupby(['team_id'])
 
     games_stats['game_number'] = team_stats_groupby.cumcount()
-    games_stats['wins_before'] = team_stats_groupby['game_true_result'].apply(lambda x : x.shift().cumsum())
-    games_stats['w_per_before'] = games_stats['wins_before']/games_stats['game_number']
+    games_stats['wins_before'] = team_stats_groupby['game_true_result'].apply(lambda x: x.shift().cumsum())
+    games_stats['w_per_before'] = games_stats['wins_before'] / games_stats['game_number']
 
     games_stats['w_per_last10games'] = team_stats_groupby['game_true_result'] \
-                        .rolling(10, closed='left').sum() \
-                        .reset_index(drop=True, level=0)
+        .rolling(10, closed='left').sum() \
+        .reset_index(drop=True, level=0)
     games_stats['w_per_last5games'] = team_stats_groupby['game_true_result'] \
-                        .rolling(5, closed='left').sum() \
-                        .reset_index(drop=True, level=0)
+        .rolling(5, closed='left').sum() \
+        .reset_index(drop=True, level=0)
 
     # games_stats.loc[games_stats['game_number']==0, 'elo_before'] = 1500
-    games_stats['elo_before'] = games_stats['game_number'].apply(lambda x : 1500 if x==0 else np.nan)
+    games_stats['elo_before'] = games_stats['game_number'].apply(lambda x: 1500 if x == 0 else np.nan)
     return games_stats
 
 

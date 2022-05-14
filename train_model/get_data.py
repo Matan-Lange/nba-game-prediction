@@ -103,5 +103,46 @@ def get_train_data():
 
 
 
+#extra data --
+
+def get_players_data(games_id):
+
+    player_stats = pd.DataFrame()
+
+    for index, id in enumerate(games_id):
+        try:
+            nba_api = NbaApi()
+            res = nba_api.get('players/statistics', {"game": id})
+            obj = json.loads(res.text)
+
+            if player_stats.empty:
+                stats_exp = obj['response'][0]
+                columns = stats_exp.keys()
+
+                columns = ['player_name', 'team_id','game_id'] + list(columns)[3:]
+                player_stats = pd.DataFrame(columns=columns)
+
+            players_info = obj['response']
+
+            for info in players_info:
+                player_name = info['player']['firstname'] +' ' +info['player']['lastname']
+                team_id = info['team']['id']
+                game_id = id
+                stats = info
+                stats.pop('player')
+                stats.pop('team')
+                stats.pop('game')
+                stats = [player_name,team_id,game_id] + list(stats.values())
+
+                player_stats.loc[len(player_stats)] = stats
+
+        except Exception as e:
+            print(e)
+
+    #player_stats.to_csv('player_stats.csv',index=False)
+    return player_stats
+
+
+
 
 
