@@ -1,7 +1,7 @@
 # NBA game prediction
 ## General info
 Our project is trying to predict the results of the NBA games.<br> 
-We built a dynamic machine learningת we connected it to a dashboard showing the results of the prediction for the games in the coming week
+We built a dynamic machine learning model and connected it to a dashboard showing the results of the prediction for the games in the coming week
 
 ## Project structure
 * notebooks - Contains the research work we did to build the model and prepare the data
